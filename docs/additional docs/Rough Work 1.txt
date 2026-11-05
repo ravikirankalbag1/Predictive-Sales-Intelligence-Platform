@@ -1,0 +1,71 @@
+***** MASTER ATTRIBUTES
+customer_id  customers  Master
+
+customer_name customers Master
+
+age           customers  Master
+
+gender        customers  Master
+
+membership    customers Master
+
+join_date     customers Master
+
+
+***** BEHAVIORAL METRICS
+total_orders sales_transaction dervied
+
+total_revenue    sales_transaction derived
+
+total_quantity_purchased sales_transaction, products derived
+
+favourite_category  sales_transaction, products dervied
+
+most_frequently_purchased_products  sales_transaction, products dervied
+
+preferred price band  sales_transaction derived
+
+total_profits_generated sales_transaction derived
+
+Average_order_value  sales_transaction derived
+
+total_distinct_products_bought sales_transaction, products derived
+
+distinct_categories_purchased sales_transaction, products derived
+
+First_purchase_date  sales_transaction dervied
+
+last_purchase_date  sales_transaction derived
+
+recency_days sales_transaction derived
+
+
+***** BUCKETS
+*** BUCKET A
+total_orders 
+total_revenue
+total_quantity_purchased
+total_profits_generated
+total_distinct_products_bought
+Average_order_value
+First_purchase_date (dates table also required coz in sales_transaction we only have date_id)
+last_purchase_date  (dates table also required coz in sales_transaction we only have date_id)
+recency_days        (dates table also required coz in sales_transaction we only have date_id)
+
+
+*** BUCKET B
+preferred price band (bcoz unit_price of that product is in products table)
+distinct_categories_purchased
+
+
+*** BUCKET C & BUCKET B BOTH
+favourite_category
+most_frequently_purchased_products
+
+
+
+
+
+
+
+

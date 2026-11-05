@@ -1,0 +1,52 @@
+1. Define our business baseline - Baseline is use historical data to predict future sales (So 2021-2023 use it to train our ML Model so that 2024 can be used for validation & finally test 2025 data to see how accurately it is predicting next month revenue for each product)
+
+2. Decide the baseline ML models - (Ridge Regression, Random Forest Regressor, LightGBM Regressor, XGB Regressor)
+
+3. Set the evaluation metrics - MAE, RMSE, R2 score & then Comparison Frameworks - Kfold Cv, GridSearch CV & Randomized Search CV
+
+Everything will be tracked using MLFlow
+
+
+1) Non ML Business Baseline --> Naive Previous Month Revenue (monthly_revenue -> next_monthly_revenue)
+
+2) . Define the baseline training/evaluation workflow for the 4 models
+
+[ Raw Dataset ]
+       │
+       ▼
+[2021-2023 TRAIN]
+       ▼                      │
+ [ 5-Fold Cross-Validation / GridSearchCV / RandomizedSearchCV ]  │
+   ├── Ridge Regression
+          │
+   ├── Random Forest  
+          │
+   ├── LightGBM    
+          │
+   └── XGBoost                
+       │                      │
+       ▼ (Best Params Found)  │
+ [ Final Model Re-Training ]  │
+       │                      │
+       ▼                      ▼
+ [ 2024 VALIDATION ]
+       │
+       ▼
+  [ MAE / RMSE / R² ]
+       │
+       ▼
+ [ Model Selection / Lock ]
+       │
+       ▼
+🔒 [ 2025 FINAL TEST ]
+       │
+       ▼
+ [ Final MAE / RMSE / R² ]
+       │
+       ▼
+ [ Final Leaderboard ]
+
+3) Establish the MLflow experiment structure.
+Experiment: The overarching container for your specific machine learning problem (e.g., "property_price_regression").
+Parent Run: Represents a single model architecture (e.g., a parent run named "XGBoost_Baseline").
+Child Runs: Nested directly inside the Parent Run. Each child represents a single hyperparameter iteration generated during RandomizedSearchCV or GridSearchCV.

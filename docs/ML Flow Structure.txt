@@ -1,0 +1,11 @@
+1) MlFlow Experiment Structure
+
+Mlflow Tracking, MlFlow Projects, MlFlow Models, Mlflow Registry
+
+## MlFlown --> Tool used for tracking experiments & registering all metrics obtained while running ML Modelling
+1) mlflow.set_experiment 2) mlflow.set_tracking_uri
+
+with mlflow.start_run():
+    Log Paramaters, Metrics and Models
+
+

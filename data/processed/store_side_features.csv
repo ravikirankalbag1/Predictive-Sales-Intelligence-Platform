@@ -1,0 +1,8 @@
+"store_id","store_name","total_revenue","total_transactions","total_units_sold","unique_customers","average_order_value","average_items_per_order","best_selling_category","peak_month"
+"S01","ABC Mumbai Central",824685065.32,100484,341621,9972,14794.68,6.13,"Electronics","July"
+"S02","ABC Delhi Central",818985222.36,99766,339327,9955,14737.64,6.11,"Electronics","July"
+"S03","ABC Chennai Central",830708575.72,100564,340863,9958,14904.08,6.12,"Electronics","January"
+"S04","ABC Kolkata Central",816913892.20,100149,339785,9970,14692.43,6.11,"Electronics","January"
+"S05","ABC Pune Central",823990152.27,100103,340241,9974,14821.03,6.12,"Electronics","December"
+"S06","ABC Bangalore Central",810532802.67,99299,337567,9958,14692.35,6.12,"Electronics","March"
+"S07","ABC Hyderabad Central",808762142.85,99635,336855,9966,14594.64,6.08,"Electronics","March"

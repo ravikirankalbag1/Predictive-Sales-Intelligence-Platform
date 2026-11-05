@@ -1,0 +1,1821 @@
+product_id,product_name,category,unit_price,cost_price
+P0001,Premium Rice 500g,Grocery,52.8,43.91
+P0002,Premium Rice 1kg,Grocery,96.0,84.11
+P0003,Premium Rice 2kg,Grocery,187.2,143.63
+P0004,Premium Rice 5kg,Grocery,456.0,390.25
+P0005,Premium Rice 10kg,Grocery,892.8,782.5
+P0006,Standard Rice 500g,Grocery,44.0,36.52
+P0007,Standard Rice 1kg,Grocery,80.0,71.93
+P0008,Standard Rice 2kg,Grocery,156.0,123.81
+P0009,Standard Rice 5kg,Grocery,380.0,301.5
+P0010,Standard Rice 10kg,Grocery,744.0,572.63
+P0011,Organic Rice 500g,Grocery,59.4,48.76
+P0012,Organic Rice 1kg,Grocery,108.0,89.29
+P0013,Organic Rice 2kg,Grocery,210.6,159.0
+P0014,Organic Rice 5kg,Grocery,513.0,426.78
+P0015,Organic Rice 10kg,Grocery,1004.4,893.45
+P0016,Economy Rice 500g,Grocery,39.6,34.02
+P0017,Economy Rice 1kg,Grocery,72.0,59.87
+P0018,Economy Rice 2kg,Grocery,140.4,105.33
+P0019,Economy Rice 5kg,Grocery,342.0,262.91
+P0020,Economy Rice 10kg,Grocery,669.6,595.3
+P0021,Premium Wheat Flour 500g,Grocery,36.3,31.58
+P0022,Premium Wheat Flour 1kg,Grocery,66.0,56.78
+P0023,Premium Wheat Flour 2kg,Grocery,128.7,108.17
+P0024,Premium Wheat Flour 5kg,Grocery,313.5,259.17
+P0025,Premium Wheat Flour 10kg,Grocery,613.8,477.97
+P0026,Standard Wheat Flour 500g,Grocery,30.25,25.83
+P0027,Standard Wheat Flour 1kg,Grocery,55.0,41.99
+P0028,Standard Wheat Flour 2kg,Grocery,107.25,81.34
+P0029,Standard Wheat Flour 5kg,Grocery,261.25,205.01
+P0030,Standard Wheat Flour 10kg,Grocery,511.5,448.44
+P0031,Organic Wheat Flour 500g,Grocery,40.84,34.38
+P0032,Organic Wheat Flour 1kg,Grocery,74.25,59.6
+P0033,Organic Wheat Flour 2kg,Grocery,144.79,110.68
+P0034,Organic Wheat Flour 5kg,Grocery,352.69,303.44
+P0035,Organic Wheat Flour 10kg,Grocery,690.53,575.84
+P0036,Economy Wheat Flour 500g,Grocery,27.23,24.17
+P0037,Economy Wheat Flour 1kg,Grocery,49.5,44.4
+P0038,Economy Wheat Flour 2kg,Grocery,96.53,73.23
+P0039,Economy Wheat Flour 5kg,Grocery,235.12,184.55
+P0040,Economy Wheat Flour 10kg,Grocery,460.35,388.89
+P0041,Premium Sugar 500g,Grocery,29.7,25.47
+P0042,Premium Sugar 1kg,Grocery,54.0,47.46
+P0043,Premium Sugar 2kg,Grocery,105.3,79.86
+P0044,Premium Sugar 5kg,Grocery,256.5,216.93
+P0045,Premium Sugar 10kg,Grocery,502.2,379.54
+P0046,Standard Sugar 500g,Grocery,24.75,20.33
+P0047,Standard Sugar 1kg,Grocery,45.0,40.36
+P0048,Standard Sugar 2kg,Grocery,87.75,76.23
+P0049,Standard Sugar 5kg,Grocery,213.75,176.88
+P0050,Standard Sugar 10kg,Grocery,418.5,342.72
+P0051,Organic Sugar 500g,Grocery,33.41,27.49
+P0052,Organic Sugar 1kg,Grocery,60.75,52.26
+P0053,Organic Sugar 2kg,Grocery,118.46,90.18
+P0054,Organic Sugar 5kg,Grocery,288.56,245.07
+P0055,Organic Sugar 10kg,Grocery,564.98,426.88
+P0056,Economy Sugar 500g,Grocery,22.28,17.63
+P0057,Economy Sugar 1kg,Grocery,40.5,35.88
+P0058,Economy Sugar 2kg,Grocery,78.98,63.68
+P0059,Economy Sugar 5kg,Grocery,192.38,167.15
+P0060,Economy Sugar 10kg,Grocery,376.65,321.0
+P0061,Premium Salt 500g,Grocery,13.2,9.91
+P0062,Premium Salt 1kg,Grocery,24.0,18.39
+P0063,Premium Salt 2kg,Grocery,46.8,40.07
+P0064,Premium Salt 5kg,Grocery,114.0,87.47
+P0065,Premium Salt 10kg,Grocery,223.2,185.37
+P0066,Standard Salt 500g,Grocery,11.0,8.79
+P0067,Standard Salt 1kg,Grocery,20.0,15.28
+P0068,Standard Salt 2kg,Grocery,39.0,34.24
+P0069,Standard Salt 5kg,Grocery,95.0,77.66
+P0070,Standard Salt 10kg,Grocery,186.0,142.5
+P0071,Organic Salt 500g,Grocery,14.85,12.23
+P0072,Organic Salt 1kg,Grocery,27.0,22.0
+P0073,Organic Salt 2kg,Grocery,52.65,40.72
+P0074,Organic Salt 5kg,Grocery,128.25,99.85
+P0075,Organic Salt 10kg,Grocery,251.1,219.85
+P0076,Economy Salt 500g,Grocery,9.9,8.65
+P0077,Economy Salt 1kg,Grocery,18.0,15.37
+P0078,Economy Salt 2kg,Grocery,35.1,30.6
+P0079,Economy Salt 5kg,Grocery,85.5,75.02
+P0080,Economy Salt 10kg,Grocery,167.4,130.19
+P0081,Premium Cooking Oil 500g,Grocery,118.8,104.78
+P0082,Premium Cooking Oil 1kg,Grocery,216.0,188.0
+P0083,Premium Cooking Oil 2kg,Grocery,421.2,319.48
+P0084,Premium Cooking Oil 5kg,Grocery,1026.0,856.88
+P0085,Premium Cooking Oil 10kg,Grocery,2008.8,1805.26
+P0086,Standard Cooking Oil 500g,Grocery,99.0,82.76
+P0087,Standard Cooking Oil 1kg,Grocery,180.0,137.16
+P0088,Standard Cooking Oil 2kg,Grocery,351.0,290.4
+P0089,Standard Cooking Oil 5kg,Grocery,855.0,762.63
+P0090,Standard Cooking Oil 10kg,Grocery,1674.0,1292.87
+P0091,Organic Cooking Oil 500g,Grocery,133.65,115.15
+P0092,Organic Cooking Oil 1kg,Grocery,243.0,194.29
+P0093,Organic Cooking Oil 2kg,Grocery,473.85,373.3
+P0094,Organic Cooking Oil 5kg,Grocery,1154.25,973.83
+P0095,Organic Cooking Oil 10kg,Grocery,2259.9,1896.22
+P0096,Economy Cooking Oil 500g,Grocery,89.1,69.79
+P0097,Economy Cooking Oil 1kg,Grocery,162.0,134.04
+P0098,Economy Cooking Oil 2kg,Grocery,315.9,265.19
+P0099,Economy Cooking Oil 5kg,Grocery,769.5,660.08
+P0100,Economy Cooking Oil 10kg,Grocery,1506.6,1310.05
+P0101,Premium Tea 500g,Grocery,297.0,259.04
+P0102,Premium Tea 1kg,Grocery,540.0,407.6
+P0103,Premium Tea 2kg,Grocery,1053.0,947.37
+P0104,Premium Tea 5kg,Grocery,2565.0,2226.01
+P0105,Premium Tea 10kg,Grocery,5022.0,4492.5
+P0106,Standard Tea 500g,Grocery,247.5,199.86
+P0107,Standard Tea 1kg,Grocery,450.0,356.96
+P0108,Standard Tea 2kg,Grocery,877.5,731.72
+P0109,Standard Tea 5kg,Grocery,2137.5,1611.15
+P0110,Standard Tea 10kg,Grocery,4185.0,3484.38
+P0111,Organic Tea 500g,Grocery,334.13,269.89
+P0112,Organic Tea 1kg,Grocery,607.5,521.13
+P0113,Organic Tea 2kg,Grocery,1184.62,900.08
+P0114,Organic Tea 5kg,Grocery,2885.62,2474.43
+P0115,Organic Tea 10kg,Grocery,5649.75,4731.17
+P0116,Economy Tea 500g,Grocery,222.75,167.35
+P0117,Economy Tea 1kg,Grocery,405.0,345.63
+P0118,Economy Tea 2kg,Grocery,789.75,608.96
+P0119,Economy Tea 5kg,Grocery,1923.75,1596.09
+P0120,Economy Tea 10kg,Grocery,3766.5,3350.92
+P0121,Premium Coffee 500g,Grocery,396.0,340.08
+P0122,Premium Coffee 1kg,Grocery,720.0,566.66
+P0123,Premium Coffee 2kg,Grocery,1404.0,1150.22
+P0124,Premium Coffee 5kg,Grocery,3420.0,2653.96
+P0125,Premium Coffee 10kg,Grocery,6696.0,5155.36
+P0126,Standard Coffee 500g,Grocery,330.0,295.65
+P0127,Standard Coffee 1kg,Grocery,600.0,478.09
+P0128,Standard Coffee 2kg,Grocery,1170.0,942.53
+P0129,Standard Coffee 5kg,Grocery,2850.0,2254.8
+P0130,Standard Coffee 10kg,Grocery,5580.0,4999.7
+P0131,Organic Coffee 500g,Grocery,445.5,352.56
+P0132,Organic Coffee 1kg,Grocery,810.0,643.77
+P0133,Organic Coffee 2kg,Grocery,1579.5,1270.0
+P0134,Organic Coffee 5kg,Grocery,3847.5,3045.59
+P0135,Organic Coffee 10kg,Grocery,7533.0,6348.15
+P0136,Economy Coffee 500g,Grocery,297.0,253.42
+P0137,Economy Coffee 1kg,Grocery,540.0,458.68
+P0138,Economy Coffee 2kg,Grocery,1053.0,851.89
+P0139,Economy Coffee 5kg,Grocery,2565.0,2168.13
+P0140,Economy Coffee 10kg,Grocery,5022.0,4057.61
+P0141,Premium Milk 500g,Grocery,42.9,37.43
+P0142,Premium Milk 1kg,Grocery,78.0,67.78
+P0143,Premium Milk 2kg,Grocery,152.1,129.88
+P0144,Premium Milk 5kg,Grocery,370.5,321.75
+P0145,Premium Milk 10kg,Grocery,725.4,581.49
+P0146,Standard Milk 500g,Grocery,35.75,28.46
+P0147,Standard Milk 1kg,Grocery,65.0,56.72
+P0148,Standard Milk 2kg,Grocery,126.75,107.68
+P0149,Standard Milk 5kg,Grocery,308.75,260.32
+P0150,Standard Milk 10kg,Grocery,604.5,487.0
+P0151,Organic Milk 500g,Grocery,48.26,39.02
+P0152,Organic Milk 1kg,Grocery,87.75,75.05
+P0153,Organic Milk 2kg,Grocery,171.11,150.17
+P0154,Organic Milk 5kg,Grocery,416.81,318.9
+P0155,Organic Milk 10kg,Grocery,816.08,726.14
+P0156,Economy Milk 500g,Grocery,32.18,27.56
+P0157,Economy Milk 1kg,Grocery,58.5,48.22
+P0158,Economy Milk 2kg,Grocery,114.08,92.74
+P0159,Economy Milk 5kg,Grocery,277.88,227.03
+P0160,Economy Milk 10kg,Grocery,544.05,437.02
+P0161,Premium Butter 500g,Grocery,363.0,273.16
+P0162,Premium Butter 1kg,Grocery,660.0,546.96
+P0163,Premium Butter 2kg,Grocery,1287.0,1153.56
+P0164,Premium Butter 5kg,Grocery,3135.0,2498.37
+P0165,Premium Butter 10kg,Grocery,6138.0,4641.97
+P0166,Standard Butter 500g,Grocery,302.5,237.1
+P0167,Standard Butter 1kg,Grocery,550.0,428.82
+P0168,Standard Butter 2kg,Grocery,1072.5,899.36
+P0169,Standard Butter 5kg,Grocery,2612.5,2291.27
+P0170,Standard Butter 10kg,Grocery,5115.0,4601.94
+P0171,Organic Butter 500g,Grocery,408.38,325.19
+P0172,Organic Butter 1kg,Grocery,742.5,615.25
+P0173,Organic Butter 2kg,Grocery,1447.88,1170.93
+P0174,Organic Butter 5kg,Grocery,3526.88,3075.81
+P0175,Organic Butter 10kg,Grocery,6905.25,5725.95
+P0176,Economy Butter 500g,Grocery,272.25,243.02
+P0177,Economy Butter 1kg,Grocery,495.0,396.08
+P0178,Economy Butter 2kg,Grocery,965.25,796.11
+P0179,Economy Butter 5kg,Grocery,2351.25,1799.36
+P0180,Economy Butter 10kg,Grocery,4603.5,3518.57
+P0181,Premium Cheese 500g,Grocery,330.0,258.68
+P0182,Premium Cheese 1kg,Grocery,600.0,460.23
+P0183,Premium Cheese 2kg,Grocery,1170.0,896.38
+P0184,Premium Cheese 5kg,Grocery,2850.0,2516.8
+P0185,Premium Cheese 10kg,Grocery,5580.0,4763.59
+P0186,Standard Cheese 500g,Grocery,275.0,242.95
+P0187,Standard Cheese 1kg,Grocery,500.0,375.66
+P0188,Standard Cheese 2kg,Grocery,975.0,833.84
+P0189,Standard Cheese 5kg,Grocery,2375.0,1926.05
+P0190,Standard Cheese 10kg,Grocery,4650.0,4155.54
+P0191,Organic Cheese 500g,Grocery,371.25,304.28
+P0192,Organic Cheese 1kg,Grocery,675.0,528.69
+P0193,Organic Cheese 2kg,Grocery,1316.25,1043.27
+P0194,Organic Cheese 5kg,Grocery,3206.25,2594.56
+P0195,Organic Cheese 10kg,Grocery,6277.5,4882.84
+P0196,Economy Cheese 500g,Grocery,247.5,196.48
+P0197,Economy Cheese 1kg,Grocery,450.0,399.15
+P0198,Economy Cheese 2kg,Grocery,877.5,698.01
+P0199,Economy Cheese 5kg,Grocery,2137.5,1713.03
+P0200,Economy Cheese 10kg,Grocery,4185.0,3388.23
+P0201,Premium Bread 500g,Grocery,33.0,24.89
+P0202,Premium Bread 1kg,Grocery,60.0,53.3
+P0203,Premium Bread 2kg,Grocery,117.0,104.84
+P0204,Premium Bread 5kg,Grocery,285.0,240.37
+P0205,Premium Bread 10kg,Grocery,558.0,463.56
+P0206,Standard Bread 500g,Grocery,27.5,21.34
+P0207,Standard Bread 1kg,Grocery,50.0,43.97
+P0208,Standard Bread 2kg,Grocery,97.5,86.64
+P0209,Standard Bread 5kg,Grocery,237.5,180.21
+P0210,Standard Bread 10kg,Grocery,465.0,374.09
+P0211,Organic Bread 500g,Grocery,37.13,28.77
+P0212,Organic Bread 1kg,Grocery,67.5,56.46
+P0213,Organic Bread 2kg,Grocery,131.62,108.32
+P0214,Organic Bread 5kg,Grocery,320.62,272.93
+P0215,Organic Bread 10kg,Grocery,627.75,487.24
+P0216,Economy Bread 500g,Grocery,24.75,20.25
+P0217,Economy Bread 1kg,Grocery,45.0,37.07
+P0218,Economy Bread 2kg,Grocery,87.75,77.35
+P0219,Economy Bread 5kg,Grocery,213.75,191.16
+P0220,Economy Bread 10kg,Grocery,418.5,365.07
+P0221,Premium Biscuits 500g,Grocery,79.2,67.14
+P0222,Premium Biscuits 1kg,Grocery,144.0,127.49
+P0223,Premium Biscuits 2kg,Grocery,280.8,228.87
+P0224,Premium Biscuits 5kg,Grocery,684.0,580.53
+P0225,Premium Biscuits 10kg,Grocery,1339.2,1010.18
+P0226,Standard Biscuits 500g,Grocery,66.0,58.1
+P0227,Standard Biscuits 1kg,Grocery,120.0,107.8
+P0228,Standard Biscuits 2kg,Grocery,234.0,186.34
+P0229,Standard Biscuits 5kg,Grocery,570.0,483.85
+P0230,Standard Biscuits 10kg,Grocery,1116.0,908.71
+P0231,Organic Biscuits 500g,Grocery,89.1,76.66
+P0232,Organic Biscuits 1kg,Grocery,162.0,138.61
+P0233,Organic Biscuits 2kg,Grocery,315.9,265.15
+P0234,Organic Biscuits 5kg,Grocery,769.5,665.33
+P0235,Organic Biscuits 10kg,Grocery,1506.6,1148.43
+P0236,Economy Biscuits 500g,Grocery,59.4,46.15
+P0237,Economy Biscuits 1kg,Grocery,108.0,86.86
+P0238,Economy Biscuits 2kg,Grocery,210.6,177.85
+P0239,Economy Biscuits 5kg,Grocery,513.0,389.75
+P0240,Economy Biscuits 10kg,Grocery,1004.4,840.6
+P0241,Premium Noodles 500g,Grocery,99.0,82.15
+P0242,Premium Noodles 1kg,Grocery,180.0,147.04
+P0243,Premium Noodles 2kg,Grocery,351.0,285.94
+P0244,Premium Noodles 5kg,Grocery,855.0,743.05
+P0245,Premium Noodles 10kg,Grocery,1674.0,1411.68
+P0246,Standard Noodles 500g,Grocery,82.5,73.08
+P0247,Standard Noodles 1kg,Grocery,150.0,113.56
+P0248,Standard Noodles 2kg,Grocery,292.5,244.72
+P0249,Standard Noodles 5kg,Grocery,712.5,553.89
+P0250,Standard Noodles 10kg,Grocery,1395.0,1099.95
+P0251,Organic Noodles 500g,Grocery,111.38,85.2
+P0252,Organic Noodles 1kg,Grocery,202.5,182.2
+P0253,Organic Noodles 2kg,Grocery,394.88,303.43
+P0254,Organic Noodles 5kg,Grocery,961.88,748.33
+P0255,Organic Noodles 10kg,Grocery,1883.25,1578.28
+P0256,Economy Noodles 500g,Grocery,74.25,60.08
+P0257,Economy Noodles 1kg,Grocery,135.0,103.29
+P0258,Economy Noodles 2kg,Grocery,263.25,215.51
+P0259,Economy Noodles 5kg,Grocery,641.25,505.25
+P0260,Economy Noodles 10kg,Grocery,1255.5,1062.12
+P0261,Premium Pasta 500g,Grocery,118.8,95.3
+P0262,Premium Pasta 1kg,Grocery,216.0,181.62
+P0263,Premium Pasta 2kg,Grocery,421.2,364.62
+P0264,Premium Pasta 5kg,Grocery,1026.0,862.26
+P0265,Premium Pasta 10kg,Grocery,2008.8,1568.54
+P0266,Standard Pasta 500g,Grocery,99.0,78.2
+P0267,Standard Pasta 1kg,Grocery,180.0,160.82
+P0268,Standard Pasta 2kg,Grocery,351.0,280.09
+P0269,Standard Pasta 5kg,Grocery,855.0,740.27
+P0270,Standard Pasta 10kg,Grocery,1674.0,1490.91
+P0271,Organic Pasta 500g,Grocery,133.65,104.34
+P0272,Organic Pasta 1kg,Grocery,243.0,206.54
+P0273,Organic Pasta 2kg,Grocery,473.85,404.31
+P0274,Organic Pasta 5kg,Grocery,1154.25,945.78
+P0275,Organic Pasta 10kg,Grocery,2259.9,2010.34
+P0276,Economy Pasta 500g,Grocery,89.1,75.58
+P0277,Economy Pasta 1kg,Grocery,162.0,142.94
+P0278,Economy Pasta 2kg,Grocery,315.9,283.71
+P0279,Economy Pasta 5kg,Grocery,769.5,593.65
+P0280,Economy Pasta 10kg,Grocery,1506.6,1173.92
+P0281,Premium Honey 500g,Grocery,297.0,244.9
+P0282,Premium Honey 1kg,Grocery,540.0,408.18
+P0283,Premium Honey 2kg,Grocery,1053.0,899.66
+P0284,Premium Honey 5kg,Grocery,2565.0,2270.61
+P0285,Premium Honey 10kg,Grocery,5022.0,4422.47
+P0286,Standard Honey 500g,Grocery,247.5,195.21
+P0287,Standard Honey 1kg,Grocery,450.0,386.29
+P0288,Standard Honey 2kg,Grocery,877.5,692.65
+P0289,Standard Honey 5kg,Grocery,2137.5,1720.64
+P0290,Standard Honey 10kg,Grocery,4185.0,3748.07
+P0291,Organic Honey 500g,Grocery,334.13,270.57
+P0292,Organic Honey 1kg,Grocery,607.5,494.06
+P0293,Organic Honey 2kg,Grocery,1184.62,1065.04
+P0294,Organic Honey 5kg,Grocery,2885.62,2238.22
+P0295,Organic Honey 10kg,Grocery,5649.75,4899.48
+P0296,Economy Honey 500g,Grocery,222.75,177.5
+P0297,Economy Honey 1kg,Grocery,405.0,317.23
+P0298,Economy Honey 2kg,Grocery,789.75,668.56
+P0299,Economy Honey 5kg,Grocery,1923.75,1480.45
+P0300,Economy Honey 10kg,Grocery,3766.5,2929.74
+P0301,Premium Jam 500g,Grocery,145.2,121.25
+P0302,Premium Jam 1kg,Grocery,264.0,205.82
+P0303,Premium Jam 2kg,Grocery,514.8,421.96
+P0304,Premium Jam 5kg,Grocery,1254.0,1052.08
+P0305,Premium Jam 10kg,Grocery,2455.2,1953.3
+P0306,Standard Jam 500g,Grocery,121.0,92.31
+P0307,Standard Jam 1kg,Grocery,220.0,167.3
+P0308,Standard Jam 2kg,Grocery,429.0,378.97
+P0309,Standard Jam 5kg,Grocery,1045.0,914.58
+P0310,Standard Jam 10kg,Grocery,2046.0,1754.79
+P0311,Organic Jam 500g,Grocery,163.35,143.45
+P0312,Organic Jam 1kg,Grocery,297.0,241.02
+P0313,Organic Jam 2kg,Grocery,579.15,480.03
+P0314,Organic Jam 5kg,Grocery,1410.75,1189.1
+P0315,Organic Jam 10kg,Grocery,2762.1,2282.07
+P0316,Economy Jam 500g,Grocery,108.9,96.39
+P0317,Economy Jam 1kg,Grocery,198.0,153.61
+P0318,Economy Jam 2kg,Grocery,386.1,338.59
+P0319,Economy Jam 5kg,Grocery,940.5,763.9
+P0320,Economy Jam 10kg,Grocery,1841.4,1504.53
+P0321,Premium Ketchup 500g,Grocery,118.8,97.68
+P0322,Premium Ketchup 1kg,Grocery,216.0,178.57
+P0323,Premium Ketchup 2kg,Grocery,421.2,319.54
+P0324,Premium Ketchup 5kg,Grocery,1026.0,786.27
+P0325,Premium Ketchup 10kg,Grocery,2008.8,1662.56
+P0326,Standard Ketchup 500g,Grocery,99.0,88.32
+P0327,Standard Ketchup 1kg,Grocery,180.0,144.02
+P0328,Standard Ketchup 2kg,Grocery,351.0,272.62
+P0329,Standard Ketchup 5kg,Grocery,855.0,758.2
+P0330,Standard Ketchup 10kg,Grocery,1674.0,1357.15
+P0331,Organic Ketchup 500g,Grocery,133.65,118.26
+P0332,Organic Ketchup 1kg,Grocery,243.0,215.1
+P0333,Organic Ketchup 2kg,Grocery,473.85,374.86
+P0334,Organic Ketchup 5kg,Grocery,1154.25,999.31
+P0335,Organic Ketchup 10kg,Grocery,2259.9,1740.95
+P0336,Economy Ketchup 500g,Grocery,89.1,68.64
+P0337,Economy Ketchup 1kg,Grocery,162.0,145.17
+P0338,Economy Ketchup 2kg,Grocery,315.9,271.86
+P0339,Economy Ketchup 5kg,Grocery,769.5,687.08
+P0340,Economy Ketchup 10kg,Grocery,1506.6,1156.08
+P0341,Premium Toor Dal 500g,Grocery,118.8,92.24
+P0342,Premium Toor Dal 1kg,Grocery,216.0,188.22
+P0343,Premium Toor Dal 2kg,Grocery,421.2,329.53
+P0344,Premium Toor Dal 5kg,Grocery,1026.0,884.04
+P0345,Premium Toor Dal 10kg,Grocery,2008.8,1795.98
+P0346,Standard Toor Dal 500g,Grocery,99.0,87.97
+P0347,Standard Toor Dal 1kg,Grocery,180.0,150.08
+P0348,Standard Toor Dal 2kg,Grocery,351.0,306.5
+P0349,Standard Toor Dal 5kg,Grocery,855.0,748.85
+P0350,Standard Toor Dal 10kg,Grocery,1674.0,1336.16
+P0351,Organic Toor Dal 500g,Grocery,133.65,104.49
+P0352,Organic Toor Dal 1kg,Grocery,243.0,210.73
+P0353,Organic Toor Dal 2kg,Grocery,473.85,386.11
+P0354,Organic Toor Dal 5kg,Grocery,1154.25,932.57
+P0355,Organic Toor Dal 10kg,Grocery,2259.9,1817.82
+P0356,Economy Toor Dal 500g,Grocery,89.1,79.29
+P0357,Economy Toor Dal 1kg,Grocery,162.0,141.84
+P0358,Economy Toor Dal 2kg,Grocery,315.9,245.24
+P0359,Economy Toor Dal 5kg,Grocery,769.5,599.55
+P0360,Economy Toor Dal 10kg,Grocery,1506.6,1199.91
+P0361,Premium Moong Dal 500g,Grocery,105.6,93.41
+P0362,Premium Moong Dal 1kg,Grocery,192.0,156.35
+P0363,Premium Moong Dal 2kg,Grocery,374.4,301.84
+P0364,Premium Moong Dal 5kg,Grocery,912.0,785.11
+P0365,Premium Moong Dal 10kg,Grocery,1785.6,1564.61
+P0366,Standard Moong Dal 500g,Grocery,88.0,76.19
+P0367,Standard Moong Dal 1kg,Grocery,160.0,136.87
+P0368,Standard Moong Dal 2kg,Grocery,312.0,277.64
+P0369,Standard Moong Dal 5kg,Grocery,760.0,677.87
+P0370,Standard Moong Dal 10kg,Grocery,1488.0,1121.58
+P0371,Organic Moong Dal 500g,Grocery,118.8,90.22
+P0372,Organic Moong Dal 1kg,Grocery,216.0,165.0
+P0373,Organic Moong Dal 2kg,Grocery,421.2,352.07
+P0374,Organic Moong Dal 5kg,Grocery,1026.0,773.91
+P0375,Organic Moong Dal 10kg,Grocery,2008.8,1511.52
+P0376,Economy Moong Dal 500g,Grocery,79.2,70.88
+P0377,Economy Moong Dal 1kg,Grocery,144.0,110.51
+P0378,Economy Moong Dal 2kg,Grocery,280.8,220.32
+P0379,Economy Moong Dal 5kg,Grocery,684.0,554.83
+P0380,Economy Moong Dal 10kg,Grocery,1339.2,1171.78
+P0381,Premium Chana Dal 500g,Grocery,72.6,57.97
+P0382,Premium Chana Dal 1kg,Grocery,132.0,99.45
+P0383,Premium Chana Dal 2kg,Grocery,257.4,210.81
+P0384,Premium Chana Dal 5kg,Grocery,627.0,492.28
+P0385,Premium Chana Dal 10kg,Grocery,1227.6,1012.84
+P0386,Standard Chana Dal 500g,Grocery,60.5,45.62
+P0387,Standard Chana Dal 1kg,Grocery,110.0,85.4
+P0388,Standard Chana Dal 2kg,Grocery,214.5,166.48
+P0389,Standard Chana Dal 5kg,Grocery,522.5,445.48
+P0390,Standard Chana Dal 10kg,Grocery,1023.0,912.66
+P0391,Organic Chana Dal 500g,Grocery,81.68,65.2
+P0392,Organic Chana Dal 1kg,Grocery,148.5,131.19
+P0393,Organic Chana Dal 2kg,Grocery,289.58,218.93
+P0394,Organic Chana Dal 5kg,Grocery,705.38,625.43
+P0395,Organic Chana Dal 10kg,Grocery,1381.05,1050.75
+P0396,Economy Chana Dal 500g,Grocery,54.45,47.81
+P0397,Economy Chana Dal 1kg,Grocery,99.0,82.24
+P0398,Economy Chana Dal 2kg,Grocery,193.05,169.32
+P0399,Economy Chana Dal 5kg,Grocery,470.25,395.5
+P0400,Economy Chana Dal 10kg,Grocery,920.7,780.53
+P0401,Premium Turmeric Powder 500g,Grocery,165.0,132.25
+P0402,Premium Turmeric Powder 1kg,Grocery,300.0,228.5
+P0403,Premium Turmeric Powder 2kg,Grocery,585.0,513.98
+P0404,Premium Turmeric Powder 5kg,Grocery,1425.0,1277.24
+P0405,Premium Turmeric Powder 10kg,Grocery,2790.0,2416.27
+P0406,Standard Turmeric Powder 500g,Grocery,137.5,115.84
+P0407,Standard Turmeric Powder 1kg,Grocery,250.0,198.14
+P0408,Standard Turmeric Powder 2kg,Grocery,487.5,368.31
+P0409,Standard Turmeric Powder 5kg,Grocery,1187.5,953.31
+P0410,Standard Turmeric Powder 10kg,Grocery,2325.0,2008.95
+P0411,Organic Turmeric Powder 500g,Grocery,185.62,163.17
+P0412,Organic Turmeric Powder 1kg,Grocery,337.5,284.03
+P0413,Organic Turmeric Powder 2kg,Grocery,658.12,561.86
+P0414,Organic Turmeric Powder 5kg,Grocery,1603.12,1219.93
+P0415,Organic Turmeric Powder 10kg,Grocery,3138.75,2624.71
+P0416,Economy Turmeric Powder 500g,Grocery,123.75,106.06
+P0417,Economy Turmeric Powder 1kg,Grocery,225.0,173.95
+P0418,Economy Turmeric Powder 2kg,Grocery,438.75,339.29
+P0419,Economy Turmeric Powder 5kg,Grocery,1068.75,956.25
+P0420,Economy Turmeric Powder 10kg,Grocery,2092.5,1817.91
+P0421,Premium Red Chilli Powder 500g,Grocery,211.2,161.27
+P0422,Premium Red Chilli Powder 1kg,Grocery,384.0,294.24
+P0423,Premium Red Chilli Powder 2kg,Grocery,748.8,614.03
+P0424,Premium Red Chilli Powder 5kg,Grocery,1824.0,1623.03
+P0425,Premium Red Chilli Powder 10kg,Grocery,3571.2,2902.4
+P0426,Standard Red Chilli Powder 500g,Grocery,176.0,154.97
+P0427,Standard Red Chilli Powder 1kg,Grocery,320.0,240.95
+P0428,Standard Red Chilli Powder 2kg,Grocery,624.0,501.1
+P0429,Standard Red Chilli Powder 5kg,Grocery,1520.0,1308.61
+P0430,Standard Red Chilli Powder 10kg,Grocery,2976.0,2676.83
+P0431,Organic Red Chilli Powder 500g,Grocery,237.6,182.82
+P0432,Organic Red Chilli Powder 1kg,Grocery,432.0,324.74
+P0433,Organic Red Chilli Powder 2kg,Grocery,842.4,739.65
+P0434,Organic Red Chilli Powder 5kg,Grocery,2052.0,1798.33
+P0435,Organic Red Chilli Powder 10kg,Grocery,4017.6,3494.93
+P0436,Economy Red Chilli Powder 500g,Grocery,158.4,133.23
+P0437,Economy Red Chilli Powder 1kg,Grocery,288.0,222.52
+P0438,Economy Red Chilli Powder 2kg,Grocery,561.6,427.53
+P0439,Economy Red Chilli Powder 5kg,Grocery,1368.0,1151.01
+P0440,Economy Red Chilli Powder 10kg,Grocery,2678.4,2156.93
+P0441,Premium Coriander Powder 500g,Grocery,118.8,95.08
+P0442,Premium Coriander Powder 1kg,Grocery,216.0,177.24
+P0443,Premium Coriander Powder 2kg,Grocery,421.2,349.83
+P0444,Premium Coriander Powder 5kg,Grocery,1026.0,869.61
+P0445,Premium Coriander Powder 10kg,Grocery,2008.8,1643.18
+P0446,Standard Coriander Powder 500g,Grocery,99.0,76.59
+P0447,Standard Coriander Powder 1kg,Grocery,180.0,140.35
+P0448,Standard Coriander Powder 2kg,Grocery,351.0,264.55
+P0449,Standard Coriander Powder 5kg,Grocery,855.0,653.88
+P0450,Standard Coriander Powder 10kg,Grocery,1674.0,1272.0
+P0451,Organic Coriander Powder 500g,Grocery,133.65,112.28
+P0452,Organic Coriander Powder 1kg,Grocery,243.0,210.22
+P0453,Organic Coriander Powder 2kg,Grocery,473.85,387.27
+P0454,Organic Coriander Powder 5kg,Grocery,1154.25,1029.73
+P0455,Organic Coriander Powder 10kg,Grocery,2259.9,1761.49
+P0456,Economy Coriander Powder 500g,Grocery,89.1,73.47
+P0457,Economy Coriander Powder 1kg,Grocery,162.0,136.18
+P0458,Economy Coriander Powder 2kg,Grocery,315.9,268.48
+P0459,Economy Coriander Powder 5kg,Grocery,769.5,600.83
+P0460,Economy Coriander Powder 10kg,Grocery,1506.6,1310.06
+P0461,Premium Cumin Seeds 500g,Grocery,297.0,266.33
+P0462,Premium Cumin Seeds 1kg,Grocery,540.0,432.94
+P0463,Premium Cumin Seeds 2kg,Grocery,1053.0,830.55
+P0464,Premium Cumin Seeds 5kg,Grocery,2565.0,2121.46
+P0465,Premium Cumin Seeds 10kg,Grocery,5022.0,3823.99
+P0466,Standard Cumin Seeds 500g,Grocery,247.5,186.04
+P0467,Standard Cumin Seeds 1kg,Grocery,450.0,395.12
+P0468,Standard Cumin Seeds 2kg,Grocery,877.5,716.67
+P0469,Standard Cumin Seeds 5kg,Grocery,2137.5,1895.38
+P0470,Standard Cumin Seeds 10kg,Grocery,4185.0,3155.91
+P0471,Organic Cumin Seeds 500g,Grocery,334.13,298.75
+P0472,Organic Cumin Seeds 1kg,Grocery,607.5,473.32
+P0473,Organic Cumin Seeds 2kg,Grocery,1184.62,947.98
+P0474,Organic Cumin Seeds 5kg,Grocery,2885.62,2399.76
+P0475,Organic Cumin Seeds 10kg,Grocery,5649.75,4521.93
+P0476,Economy Cumin Seeds 500g,Grocery,222.75,173.75
+P0477,Economy Cumin Seeds 1kg,Grocery,405.0,334.05
+P0478,Economy Cumin Seeds 2kg,Grocery,789.75,682.62
+P0479,Economy Cumin Seeds 5kg,Grocery,1923.75,1662.98
+P0480,Economy Cumin Seeds 10kg,Grocery,3766.5,3166.38
+P0481,Premium Black Pepper 500g,Grocery,528.0,406.33
+P0482,Premium Black Pepper 1kg,Grocery,960.0,806.46
+P0483,Premium Black Pepper 2kg,Grocery,1872.0,1493.88
+P0484,Premium Black Pepper 5kg,Grocery,4560.0,3482.94
+P0485,Premium Black Pepper 10kg,Grocery,8928.0,7614.97
+P0486,Standard Black Pepper 500g,Grocery,440.0,388.9
+P0487,Standard Black Pepper 1kg,Grocery,800.0,614.82
+P0488,Standard Black Pepper 2kg,Grocery,1560.0,1359.44
+P0489,Standard Black Pepper 5kg,Grocery,3800.0,3247.45
+P0490,Standard Black Pepper 10kg,Grocery,7440.0,5785.64
+P0491,Organic Black Pepper 500g,Grocery,594.0,517.83
+P0492,Organic Black Pepper 1kg,Grocery,1080.0,958.29
+P0493,Organic Black Pepper 2kg,Grocery,2106.0,1587.01
+P0494,Organic Black Pepper 5kg,Grocery,5130.0,3867.39
+P0495,Organic Black Pepper 10kg,Grocery,10044.0,8442.33
+P0496,Economy Black Pepper 500g,Grocery,396.0,316.44
+P0497,Economy Black Pepper 1kg,Grocery,720.0,634.65
+P0498,Economy Black Pepper 2kg,Grocery,1404.0,1110.63
+P0499,Economy Black Pepper 5kg,Grocery,3420.0,2674.59
+P0500,Economy Black Pepper 10kg,Grocery,6696.0,5746.48
+P0501,Premium Poha 500g,Grocery,59.4,51.34
+P0502,Premium Poha 1kg,Grocery,108.0,85.04
+P0503,Premium Poha 2kg,Grocery,210.6,179.6
+P0504,Premium Poha 5kg,Grocery,513.0,409.15
+P0505,Premium Poha 10kg,Grocery,1004.4,843.67
+P0506,Standard Poha 500g,Grocery,49.5,42.72
+P0507,Standard Poha 1kg,Grocery,90.0,67.86
+P0508,Standard Poha 2kg,Grocery,175.5,135.24
+P0509,Standard Poha 5kg,Grocery,427.5,343.09
+P0510,Standard Poha 10kg,Grocery,837.0,683.95
+P0511,Organic Poha 500g,Grocery,66.83,52.72
+P0512,Organic Poha 1kg,Grocery,121.5,101.59
+P0513,Organic Poha 2kg,Grocery,236.93,182.52
+P0514,Organic Poha 5kg,Grocery,577.12,436.52
+P0515,Organic Poha 10kg,Grocery,1129.95,890.58
+P0516,Economy Poha 500g,Grocery,44.55,37.2
+P0517,Economy Poha 1kg,Grocery,81.0,71.74
+P0518,Economy Poha 2kg,Grocery,157.95,120.99
+P0519,Economy Poha 5kg,Grocery,384.75,318.68
+P0520,Economy Poha 10kg,Grocery,753.3,640.17
+P0521,Premium Oats 500g,Grocery,118.8,96.29
+P0522,Premium Oats 1kg,Grocery,216.0,163.78
+P0523,Premium Oats 2kg,Grocery,421.2,348.92
+P0524,Premium Oats 5kg,Grocery,1026.0,886.21
+P0525,Premium Oats 10kg,Grocery,2008.8,1799.15
+P0526,Standard Oats 500g,Grocery,99.0,87.88
+P0527,Standard Oats 1kg,Grocery,180.0,139.35
+P0528,Standard Oats 2kg,Grocery,351.0,293.3
+P0529,Standard Oats 5kg,Grocery,855.0,703.29
+P0530,Standard Oats 10kg,Grocery,1674.0,1399.94
+P0531,Organic Oats 500g,Grocery,133.65,107.21
+P0532,Organic Oats 1kg,Grocery,243.0,214.09
+P0533,Organic Oats 2kg,Grocery,473.85,391.21
+P0534,Organic Oats 5kg,Grocery,1154.25,966.08
+P0535,Organic Oats 10kg,Grocery,2259.9,1894.16
+P0536,Economy Oats 500g,Grocery,89.1,73.84
+P0537,Economy Oats 1kg,Grocery,162.0,132.27
+P0538,Economy Oats 2kg,Grocery,315.9,240.44
+P0539,Economy Oats 5kg,Grocery,769.5,666.21
+P0540,Economy Oats 10kg,Grocery,1506.6,1330.56
+P0541,Premium Corn Flakes 500g,Grocery,165.0,125.31
+P0542,Premium Corn Flakes 1kg,Grocery,300.0,265.97
+P0543,Premium Corn Flakes 2kg,Grocery,585.0,469.87
+P0544,Premium Corn Flakes 5kg,Grocery,1425.0,1254.41
+P0545,Premium Corn Flakes 10kg,Grocery,2790.0,2351.72
+P0546,Standard Corn Flakes 500g,Grocery,137.5,119.33
+P0547,Standard Corn Flakes 1kg,Grocery,250.0,189.2
+P0548,Standard Corn Flakes 2kg,Grocery,487.5,370.01
+P0549,Standard Corn Flakes 5kg,Grocery,1187.5,932.64
+P0550,Standard Corn Flakes 10kg,Grocery,2325.0,1989.14
+P0551,Organic Corn Flakes 500g,Grocery,185.62,158.62
+P0552,Organic Corn Flakes 1kg,Grocery,337.5,273.57
+P0553,Organic Corn Flakes 2kg,Grocery,658.12,545.11
+P0554,Organic Corn Flakes 5kg,Grocery,1603.12,1270.55
+P0555,Organic Corn Flakes 10kg,Grocery,3138.75,2711.32
+P0556,Economy Corn Flakes 500g,Grocery,123.75,97.31
+P0557,Economy Corn Flakes 1kg,Grocery,225.0,191.61
+P0558,Economy Corn Flakes 2kg,Grocery,438.75,371.26
+P0559,Economy Corn Flakes 5kg,Grocery,1068.75,931.35
+P0560,Economy Corn Flakes 10kg,Grocery,2092.5,1762.4
+P0561,Premium Detergent 500g,Grocery,145.2,121.97
+P0562,Premium Detergent 1kg,Grocery,264.0,224.09
+P0563,Premium Detergent 2kg,Grocery,514.8,406.26
+P0564,Premium Detergent 5kg,Grocery,1254.0,1098.04
+P0565,Premium Detergent 10kg,Grocery,2455.2,2115.97
+P0566,Standard Detergent 500g,Grocery,121.0,94.39
+P0567,Standard Detergent 1kg,Grocery,220.0,192.72
+P0568,Standard Detergent 2kg,Grocery,429.0,335.98
+P0569,Standard Detergent 5kg,Grocery,1045.0,855.19
+P0570,Standard Detergent 10kg,Grocery,2046.0,1728.12
+P0571,Organic Detergent 500g,Grocery,163.35,128.46
+P0572,Organic Detergent 1kg,Grocery,297.0,238.27
+P0573,Organic Detergent 2kg,Grocery,579.15,474.16
+P0574,Organic Detergent 5kg,Grocery,1410.75,1093.29
+P0575,Organic Detergent 10kg,Grocery,2762.1,2177.04
+P0576,Economy Detergent 500g,Grocery,108.9,88.02
+P0577,Economy Detergent 1kg,Grocery,198.0,171.97
+P0578,Economy Detergent 2kg,Grocery,386.1,293.87
+P0579,Economy Detergent 5kg,Grocery,940.5,839.67
+P0580,Economy Detergent 10kg,Grocery,1841.4,1532.52
+P0581,Premium Toothpaste 500g,Grocery,198.0,153.93
+P0582,Premium Toothpaste 1kg,Grocery,360.0,303.12
+P0583,Premium Toothpaste 2kg,Grocery,702.0,628.15
+P0584,Premium Toothpaste 5kg,Grocery,1710.0,1354.87
+P0585,Premium Toothpaste 10kg,Grocery,3348.0,2999.04
+P0586,Standard Toothpaste 500g,Grocery,165.0,135.87
+P0587,Standard Toothpaste 1kg,Grocery,300.0,247.85
+P0588,Standard Toothpaste 2kg,Grocery,585.0,489.36
+P0589,Standard Toothpaste 5kg,Grocery,1425.0,1269.62
+P0590,Standard Toothpaste 10kg,Grocery,2790.0,2482.58
+P0591,Organic Toothpaste 500g,Grocery,222.75,196.0
+P0592,Organic Toothpaste 1kg,Grocery,405.0,310.0
+P0593,Organic Toothpaste 2kg,Grocery,789.75,600.04
+P0594,Organic Toothpaste 5kg,Grocery,1923.75,1472.02
+P0595,Organic Toothpaste 10kg,Grocery,3766.5,2930.15
+P0596,Economy Toothpaste 500g,Grocery,148.5,123.61
+P0597,Economy Toothpaste 1kg,Grocery,270.0,219.58
+P0598,Economy Toothpaste 2kg,Grocery,526.5,443.07
+P0599,Economy Toothpaste 5kg,Grocery,1282.5,1141.63
+P0600,Economy Toothpaste 10kg,Grocery,2511.0,2212.2
+P0601,Standard Shampoo 100ml,Beauty,220.0,146.3
+P0602,Standard Shampoo 200ml,Beauty,429.0,292.83
+P0603,Standard Shampoo 300ml,Beauty,616.0,410.8
+P0604,Standard Shampoo 500ml,Beauty,1056.0,600.95
+P0605,Premium Shampoo 100ml,Beauty,286.0,191.21
+P0606,Premium Shampoo 200ml,Beauty,557.7,360.23
+P0607,Premium Shampoo 300ml,Beauty,800.8,464.64
+P0608,Premium Shampoo 500ml,Beauty,1372.8,844.47
+P0609,Luxury Shampoo 100ml,Beauty,352.0,259.62
+P0610,Luxury Shampoo 200ml,Beauty,686.4,493.08
+P0611,Luxury Shampoo 300ml,Beauty,985.6,611.37
+P0612,Luxury Shampoo 500ml,Beauty,1689.6,1227.01
+P0613,Standard Conditioner 100ml,Beauty,240.0,163.71
+P0614,Standard Conditioner 200ml,Beauty,468.0,266.03
+P0615,Standard Conditioner 300ml,Beauty,672.0,455.79
+P0616,Standard Conditioner 500ml,Beauty,1152.0,838.3
+P0617,Premium Conditioner 100ml,Beauty,312.0,192.94
+P0618,Premium Conditioner 200ml,Beauty,608.4,425.47
+P0619,Premium Conditioner 300ml,Beauty,873.6,532.91
+P0620,Premium Conditioner 500ml,Beauty,1497.6,911.74
+P0621,Luxury Conditioner 100ml,Beauty,384.0,241.51
+P0622,Luxury Conditioner 200ml,Beauty,748.8,511.27
+P0623,Luxury Conditioner 300ml,Beauty,1075.2,646.73
+P0624,Luxury Conditioner 500ml,Beauty,1843.2,1053.84
+P0625,Standard Hair Oil 100ml,Beauty,180.0,112.26
+P0626,Standard Hair Oil 200ml,Beauty,351.0,241.55
+P0627,Standard Hair Oil 300ml,Beauty,504.0,311.52
+P0628,Standard Hair Oil 500ml,Beauty,864.0,507.91
+P0629,Premium Hair Oil 100ml,Beauty,234.0,149.18
+P0630,Premium Hair Oil 200ml,Beauty,456.3,251.0
+P0631,Premium Hair Oil 300ml,Beauty,655.2,432.9
+P0632,Premium Hair Oil 500ml,Beauty,1123.2,693.71
+P0633,Luxury Hair Oil 100ml,Beauty,288.0,192.28
+P0634,Luxury Hair Oil 200ml,Beauty,561.6,313.8
+P0635,Luxury Hair Oil 300ml,Beauty,806.4,534.91
+P0636,Luxury Hair Oil 500ml,Beauty,1382.4,1006.07
+P0637,Standard Face Wash 100ml,Beauty,250.0,166.73
+P0638,Standard Face Wash 200ml,Beauty,487.5,361.34
+P0639,Standard Face Wash 300ml,Beauty,700.0,403.62
+P0640,Standard Face Wash 500ml,Beauty,1200.0,728.85
+P0641,Premium Face Wash 100ml,Beauty,325.0,202.81
+P0642,Premium Face Wash 200ml,Beauty,633.75,447.54
+P0643,Premium Face Wash 300ml,Beauty,910.0,520.24
+P0644,Premium Face Wash 500ml,Beauty,1560.0,1081.32
+P0645,Luxury Face Wash 100ml,Beauty,400.0,286.94
+P0646,Luxury Face Wash 200ml,Beauty,780.0,478.68
+P0647,Luxury Face Wash 300ml,Beauty,1120.0,777.72
+P0648,Luxury Face Wash 500ml,Beauty,1920.0,1377.83
+P0649,Standard Moisturizer 100ml,Beauty,350.0,194.92
+P0650,Standard Moisturizer 200ml,Beauty,682.5,476.62
+P0651,Standard Moisturizer 300ml,Beauty,980.0,629.32
+P0652,Standard Moisturizer 500ml,Beauty,1680.0,969.46
+P0653,Premium Moisturizer 100ml,Beauty,455.0,296.72
+P0654,Premium Moisturizer 200ml,Beauty,887.25,629.99
+P0655,Premium Moisturizer 300ml,Beauty,1274.0,863.41
+P0656,Premium Moisturizer 500ml,Beauty,2184.0,1451.73
+P0657,Luxury Moisturizer 100ml,Beauty,560.0,341.75
+P0658,Luxury Moisturizer 200ml,Beauty,1092.0,657.83
+P0659,Luxury Moisturizer 300ml,Beauty,1568.0,1113.9
+P0660,Luxury Moisturizer 500ml,Beauty,2688.0,1880.52
+P0661,Standard Body Lotion 100ml,Beauty,300.0,192.43
+P0662,Standard Body Lotion 200ml,Beauty,585.0,363.73
+P0663,Standard Body Lotion 300ml,Beauty,840.0,484.95
+P0664,Standard Body Lotion 500ml,Beauty,1440.0,996.99
+P0665,Premium Body Lotion 100ml,Beauty,390.0,277.78
+P0666,Premium Body Lotion 200ml,Beauty,760.5,526.64
+P0667,Premium Body Lotion 300ml,Beauty,1092.0,683.6
+P0668,Premium Body Lotion 500ml,Beauty,1872.0,1159.44
+P0669,Luxury Body Lotion 100ml,Beauty,480.0,289.27
+P0670,Luxury Body Lotion 200ml,Beauty,936.0,597.22
+P0671,Luxury Body Lotion 300ml,Beauty,1344.0,930.57
+P0672,Luxury Body Lotion 500ml,Beauty,2304.0,1636.13
+P0673,Standard Soap 100ml,Beauty,60.0,33.32
+P0674,Standard Soap 200ml,Beauty,117.0,65.32
+P0675,Standard Soap 300ml,Beauty,168.0,115.76
+P0676,Standard Soap 500ml,Beauty,288.0,171.07
+P0677,Premium Soap 100ml,Beauty,78.0,52.98
+P0678,Premium Soap 200ml,Beauty,152.1,103.33
+P0679,Premium Soap 300ml,Beauty,218.4,150.14
+P0680,Premium Soap 500ml,Beauty,374.4,273.24
+P0681,Luxury Soap 100ml,Beauty,96.0,64.72
+P0682,Luxury Soap 200ml,Beauty,187.2,103.03
+P0683,Luxury Soap 300ml,Beauty,268.8,196.21
+P0684,Luxury Soap 500ml,Beauty,460.8,288.66
+P0685,Standard Hand Wash 100ml,Beauty,120.0,87.59
+P0686,Standard Hand Wash 200ml,Beauty,234.0,172.57
+P0687,Standard Hand Wash 300ml,Beauty,336.0,190.08
+P0688,Standard Hand Wash 500ml,Beauty,576.0,407.45
+P0689,Premium Hand Wash 100ml,Beauty,156.0,116.79
+P0690,Premium Hand Wash 200ml,Beauty,304.2,198.8
+P0691,Premium Hand Wash 300ml,Beauty,436.8,322.2
+P0692,Premium Hand Wash 500ml,Beauty,748.8,437.96
+P0693,Luxury Hand Wash 100ml,Beauty,192.0,120.05
+P0694,Luxury Hand Wash 200ml,Beauty,374.4,219.07
+P0695,Luxury Hand Wash 300ml,Beauty,537.6,372.65
+P0696,Luxury Hand Wash 500ml,Beauty,921.6,673.56
+P0697,Standard Toothbrush 100ml,Beauty,80.0,49.53
+P0698,Standard Toothbrush 200ml,Beauty,156.0,104.76
+P0699,Standard Toothbrush 300ml,Beauty,224.0,145.45
+P0700,Standard Toothbrush 500ml,Beauty,384.0,246.95
+P0701,Premium Toothbrush 100ml,Beauty,104.0,63.2
+P0702,Premium Toothbrush 200ml,Beauty,202.8,127.89
+P0703,Premium Toothbrush 300ml,Beauty,291.2,186.28
+P0704,Premium Toothbrush 500ml,Beauty,499.2,295.93
+P0705,Luxury Toothbrush 100ml,Beauty,128.0,81.56
+P0706,Luxury Toothbrush 200ml,Beauty,249.6,168.29
+P0707,Luxury Toothbrush 300ml,Beauty,358.4,231.87
+P0708,Luxury Toothbrush 500ml,Beauty,614.4,437.41
+P0709,Standard Mouthwash 100ml,Beauty,180.0,122.85
+P0710,Standard Mouthwash 200ml,Beauty,351.0,256.45
+P0711,Standard Mouthwash 300ml,Beauty,504.0,358.85
+P0712,Standard Mouthwash 500ml,Beauty,864.0,491.73
+P0713,Premium Mouthwash 100ml,Beauty,234.0,158.23
+P0714,Premium Mouthwash 200ml,Beauty,456.3,339.44
+P0715,Premium Mouthwash 300ml,Beauty,655.2,386.7
+P0716,Premium Mouthwash 500ml,Beauty,1123.2,662.89
+P0717,Luxury Mouthwash 100ml,Beauty,288.0,206.83
+P0718,Luxury Mouthwash 200ml,Beauty,561.6,323.91
+P0719,Luxury Mouthwash 300ml,Beauty,806.4,482.37
+P0720,Luxury Mouthwash 500ml,Beauty,1382.4,911.84
+P0721,Standard Face Cream 100ml,Beauty,400.0,224.43
+P0722,Standard Face Cream 200ml,Beauty,780.0,460.5
+P0723,Standard Face Cream 300ml,Beauty,1120.0,696.56
+P0724,Standard Face Cream 500ml,Beauty,1920.0,1254.7
+P0725,Premium Face Cream 100ml,Beauty,520.0,319.02
+P0726,Premium Face Cream 200ml,Beauty,1014.0,713.87
+P0727,Premium Face Cream 300ml,Beauty,1456.0,1040.19
+P0728,Premium Face Cream 500ml,Beauty,2496.0,1831.58
+P0729,Luxury Face Cream 100ml,Beauty,640.0,397.31
+P0730,Luxury Face Cream 200ml,Beauty,1248.0,919.33
+P0731,Luxury Face Cream 300ml,Beauty,1792.0,1016.09
+P0732,Luxury Face Cream 500ml,Beauty,3072.0,1780.1
+P0733,Standard Sunscreen 100ml,Beauty,450.0,306.42
+P0734,Standard Sunscreen 200ml,Beauty,877.5,514.35
+P0735,Standard Sunscreen 300ml,Beauty,1260.0,930.82
+P0736,Standard Sunscreen 500ml,Beauty,2160.0,1596.32
+P0737,Premium Sunscreen 100ml,Beauty,585.0,346.23
+P0738,Premium Sunscreen 200ml,Beauty,1140.75,688.04
+P0739,Premium Sunscreen 300ml,Beauty,1638.0,956.91
+P0740,Premium Sunscreen 500ml,Beauty,2808.0,2000.41
+P0741,Luxury Sunscreen 100ml,Beauty,720.0,443.06
+P0742,Luxury Sunscreen 200ml,Beauty,1404.0,946.87
+P0743,Luxury Sunscreen 300ml,Beauty,2016.0,1309.66
+P0744,Luxury Sunscreen 500ml,Beauty,3456.0,2170.68
+P0745,Standard Lip Balm 100ml,Beauty,150.0,112.11
+P0746,Standard Lip Balm 200ml,Beauty,292.5,170.8
+P0747,Standard Lip Balm 300ml,Beauty,420.0,235.93
+P0748,Standard Lip Balm 500ml,Beauty,720.0,468.97
+P0749,Premium Lip Balm 100ml,Beauty,195.0,141.99
+P0750,Premium Lip Balm 200ml,Beauty,380.25,266.33
+P0751,Premium Lip Balm 300ml,Beauty,546.0,340.49
+P0752,Premium Lip Balm 500ml,Beauty,936.0,626.25
+P0753,Luxury Lip Balm 100ml,Beauty,240.0,153.6
+P0754,Luxury Lip Balm 200ml,Beauty,468.0,312.68
+P0755,Luxury Lip Balm 300ml,Beauty,672.0,372.43
+P0756,Luxury Lip Balm 500ml,Beauty,1152.0,665.26
+P0757,Standard Lipstick 100ml,Beauty,550.0,313.5
+P0758,Standard Lipstick 200ml,Beauty,1072.5,622.47
+P0759,Standard Lipstick 300ml,Beauty,1540.0,928.16
+P0760,Standard Lipstick 500ml,Beauty,2640.0,1903.45
+P0761,Premium Lipstick 100ml,Beauty,715.0,492.39
+P0762,Premium Lipstick 200ml,Beauty,1394.25,970.63
+P0763,Premium Lipstick 300ml,Beauty,2002.0,1148.43
+P0764,Premium Lipstick 500ml,Beauty,3432.0,2371.11
+P0765,Luxury Lipstick 100ml,Beauty,880.0,520.58
+P0766,Luxury Lipstick 200ml,Beauty,1716.0,982.29
+P0767,Luxury Lipstick 300ml,Beauty,2464.0,1584.61
+P0768,Luxury Lipstick 500ml,Beauty,4224.0,2914.78
+P0769,Standard Compact Powder 100ml,Beauty,450.0,328.84
+P0770,Standard Compact Powder 200ml,Beauty,877.5,542.18
+P0771,Standard Compact Powder 300ml,Beauty,1260.0,895.46
+P0772,Standard Compact Powder 500ml,Beauty,2160.0,1481.39
+P0773,Premium Compact Powder 100ml,Beauty,585.0,365.69
+P0774,Premium Compact Powder 200ml,Beauty,1140.75,829.89
+P0775,Premium Compact Powder 300ml,Beauty,1638.0,1221.82
+P0776,Premium Compact Powder 500ml,Beauty,2808.0,1916.05
+P0777,Luxury Compact Powder 100ml,Beauty,720.0,399.32
+P0778,Luxury Compact Powder 200ml,Beauty,1404.0,952.5
+P0779,Luxury Compact Powder 300ml,Beauty,2016.0,1236.34
+P0780,Luxury Compact Powder 500ml,Beauty,3456.0,2347.02
+P0781,Standard Foundation 100ml,Beauty,700.0,461.16
+P0782,Standard Foundation 200ml,Beauty,1365.0,915.91
+P0783,Standard Foundation 300ml,Beauty,1960.0,1308.36
+P0784,Standard Foundation 500ml,Beauty,3360.0,2155.74
+P0785,Premium Foundation 100ml,Beauty,910.0,652.29
+P0786,Premium Foundation 200ml,Beauty,1774.5,1088.96
+P0787,Premium Foundation 300ml,Beauty,2548.0,1495.78
+P0788,Premium Foundation 500ml,Beauty,4368.0,2828.4
+P0789,Luxury Foundation 100ml,Beauty,1120.0,691.37
+P0790,Luxury Foundation 200ml,Beauty,2184.0,1346.32
+P0791,Luxury Foundation 300ml,Beauty,3136.0,1890.51
+P0792,Luxury Foundation 500ml,Beauty,5376.0,3231.56
+P0793,Standard Eyeliner 100ml,Beauty,300.0,194.45
+P0794,Standard Eyeliner 200ml,Beauty,585.0,368.62
+P0795,Standard Eyeliner 300ml,Beauty,840.0,601.96
+P0796,Standard Eyeliner 500ml,Beauty,1440.0,873.75
+P0797,Premium Eyeliner 100ml,Beauty,390.0,253.55
+P0798,Premium Eyeliner 200ml,Beauty,760.5,482.66
+P0799,Premium Eyeliner 300ml,Beauty,1092.0,766.14
+P0800,Premium Eyeliner 500ml,Beauty,1872.0,1299.72
+P0801,Luxury Eyeliner 100ml,Beauty,480.0,294.37
+P0802,Luxury Eyeliner 200ml,Beauty,936.0,524.19
+P0803,Luxury Eyeliner 300ml,Beauty,1344.0,931.94
+P0804,Luxury Eyeliner 500ml,Beauty,2304.0,1443.69
+P0805,Standard Mascara 100ml,Beauty,450.0,335.28
+P0806,Standard Mascara 200ml,Beauty,877.5,587.12
+P0807,Standard Mascara 300ml,Beauty,1260.0,938.32
+P0808,Standard Mascara 500ml,Beauty,2160.0,1495.76
+P0809,Premium Mascara 100ml,Beauty,585.0,430.51
+P0810,Premium Mascara 200ml,Beauty,1140.75,648.87
+P0811,Premium Mascara 300ml,Beauty,1638.0,1118.68
+P0812,Premium Mascara 500ml,Beauty,2808.0,1891.48
+P0813,Luxury Mascara 100ml,Beauty,720.0,512.9
+P0814,Luxury Mascara 200ml,Beauty,1404.0,813.67
+P0815,Luxury Mascara 300ml,Beauty,2016.0,1231.88
+P0816,Luxury Mascara 500ml,Beauty,3456.0,2564.32
+P0817,Standard Nail Polish 100ml,Beauty,180.0,121.93
+P0818,Standard Nail Polish 200ml,Beauty,351.0,231.86
+P0819,Standard Nail Polish 300ml,Beauty,504.0,298.82
+P0820,Standard Nail Polish 500ml,Beauty,864.0,543.57
+P0821,Premium Nail Polish 100ml,Beauty,234.0,162.8
+P0822,Premium Nail Polish 200ml,Beauty,456.3,268.76
+P0823,Premium Nail Polish 300ml,Beauty,655.2,470.51
+P0824,Premium Nail Polish 500ml,Beauty,1123.2,725.76
+P0825,Luxury Nail Polish 100ml,Beauty,288.0,212.72
+P0826,Luxury Nail Polish 200ml,Beauty,561.6,336.0
+P0827,Luxury Nail Polish 300ml,Beauty,806.4,590.23
+P0828,Luxury Nail Polish 500ml,Beauty,1382.4,837.92
+P0829,Standard Perfume 100ml,Beauty,1200.0,868.06
+P0830,Standard Perfume 200ml,Beauty,2340.0,1500.79
+P0831,Standard Perfume 300ml,Beauty,3360.0,1929.94
+P0832,Standard Perfume 500ml,Beauty,5760.0,3826.34
+P0833,Premium Perfume 100ml,Beauty,1560.0,995.84
+P0834,Premium Perfume 200ml,Beauty,3042.0,2038.56
+P0835,Premium Perfume 300ml,Beauty,4368.0,3124.25
+P0836,Premium Perfume 500ml,Beauty,7488.0,4507.06
+P0837,Luxury Perfume 100ml,Beauty,1920.0,1188.75
+P0838,Luxury Perfume 200ml,Beauty,3744.0,2715.45
+P0839,Luxury Perfume 300ml,Beauty,5376.0,3538.53
+P0840,Luxury Perfume 500ml,Beauty,9216.0,6782.75
+P0841,Standard Deodorant 100ml,Beauty,250.0,157.25
+P0842,Standard Deodorant 200ml,Beauty,487.5,282.2
+P0843,Standard Deodorant 300ml,Beauty,700.0,415.4
+P0844,Standard Deodorant 500ml,Beauty,1200.0,809.46
+P0845,Premium Deodorant 100ml,Beauty,325.0,190.92
+P0846,Premium Deodorant 200ml,Beauty,633.75,387.82
+P0847,Premium Deodorant 300ml,Beauty,910.0,543.58
+P0848,Premium Deodorant 500ml,Beauty,1560.0,1043.81
+P0849,Luxury Deodorant 100ml,Beauty,400.0,275.91
+P0850,Luxury Deodorant 200ml,Beauty,780.0,432.77
+P0851,Luxury Deodorant 300ml,Beauty,1120.0,660.87
+P0852,Luxury Deodorant 500ml,Beauty,1920.0,1100.24
+P0853,Standard Body Wash 100ml,Beauty,280.0,166.02
+P0854,Standard Body Wash 200ml,Beauty,546.0,359.29
+P0855,Standard Body Wash 300ml,Beauty,784.0,528.09
+P0856,Standard Body Wash 500ml,Beauty,1344.0,980.18
+P0857,Premium Body Wash 100ml,Beauty,364.0,208.78
+P0858,Premium Body Wash 200ml,Beauty,709.8,524.74
+P0859,Premium Body Wash 300ml,Beauty,1019.2,725.03
+P0860,Premium Body Wash 500ml,Beauty,1747.2,1064.49
+P0861,Luxury Body Wash 100ml,Beauty,448.0,335.01
+P0862,Luxury Body Wash 200ml,Beauty,873.6,642.33
+P0863,Luxury Body Wash 300ml,Beauty,1254.4,712.63
+P0864,Luxury Body Wash 500ml,Beauty,2150.4,1467.46
+P0865,Standard Face Serum 100ml,Beauty,850.0,533.8
+P0866,Standard Face Serum 200ml,Beauty,1657.5,918.56
+P0867,Standard Face Serum 300ml,Beauty,2380.0,1382.94
+P0868,Standard Face Serum 500ml,Beauty,4080.0,2570.14
+P0869,Premium Face Serum 100ml,Beauty,1105.0,745.17
+P0870,Premium Face Serum 200ml,Beauty,2154.75,1485.36
+P0871,Premium Face Serum 300ml,Beauty,3094.0,2225.7
+P0872,Premium Face Serum 500ml,Beauty,5304.0,3738.8
+P0873,Luxury Face Serum 100ml,Beauty,1360.0,966.28
+P0874,Luxury Face Serum 200ml,Beauty,2652.0,1551.75
+P0875,Luxury Face Serum 300ml,Beauty,3808.0,2234.75
+P0876,Luxury Face Serum 500ml,Beauty,6528.0,4039.69
+P0877,Standard Beard Oil 100ml,Beauty,350.0,215.16
+P0878,Standard Beard Oil 200ml,Beauty,682.5,382.32
+P0879,Standard Beard Oil 300ml,Beauty,980.0,705.35
+P0880,Standard Beard Oil 500ml,Beauty,1680.0,1189.32
+P0881,Premium Beard Oil 100ml,Beauty,455.0,299.81
+P0882,Premium Beard Oil 200ml,Beauty,887.25,544.48
+P0883,Premium Beard Oil 300ml,Beauty,1274.0,917.37
+P0884,Premium Beard Oil 500ml,Beauty,2184.0,1442.03
+P0885,Luxury Beard Oil 100ml,Beauty,560.0,364.71
+P0886,Luxury Beard Oil 200ml,Beauty,1092.0,776.92
+P0887,Luxury Beard Oil 300ml,Beauty,1568.0,1138.35
+P0888,Luxury Beard Oil 500ml,Beauty,2688.0,1634.17
+P0889,Standard Shaving Cream 100ml,Beauty,220.0,130.12
+P0890,Standard Shaving Cream 200ml,Beauty,429.0,239.55
+P0891,Standard Shaving Cream 300ml,Beauty,616.0,377.08
+P0892,Standard Shaving Cream 500ml,Beauty,1056.0,699.88
+P0893,Premium Shaving Cream 100ml,Beauty,286.0,206.33
+P0894,Premium Shaving Cream 200ml,Beauty,557.7,360.02
+P0895,Premium Shaving Cream 300ml,Beauty,800.8,514.66
+P0896,Premium Shaving Cream 500ml,Beauty,1372.8,860.8
+P0897,Luxury Shaving Cream 100ml,Beauty,352.0,259.71
+P0898,Luxury Shaving Cream 200ml,Beauty,686.4,444.78
+P0899,Luxury Shaving Cream 300ml,Beauty,985.6,655.64
+P0900,Luxury Shaving Cream 500ml,Beauty,1689.6,1085.71
+P0901,Adidas Men T-Shirt Small,Clothing,1000.0,502.75
+P0902,Adidas Men T-Shirt Medium,Clothing,1000.0,464.69
+P0903,Adidas Men T-Shirt Large,Clothing,1050.0,478.87
+P0904,Adidas Men T-Shirt XL,Clothing,1100.0,616.36
+P0905,Adidas Men T-Shirt 2XL,Clothing,1150.0,668.21
+P0906,Pepe Jeans Men T-Shirt Small,Clothing,920.0,442.86
+P0907,Pepe Jeans Men T-Shirt Medium,Clothing,920.0,461.05
+P0908,Pepe Jeans Men T-Shirt Large,Clothing,966.0,482.45
+P0909,Pepe Jeans Men T-Shirt XL,Clothing,1012.0,545.07
+P0910,Pepe Jeans Men T-Shirt 2XL,Clothing,1058.0,720.97
+P0911,Roadster Men T-Shirt Small,Clothing,800.0,512.79
+P0912,Roadster Men T-Shirt Medium,Clothing,800.0,380.86
+P0913,Roadster Men T-Shirt Large,Clothing,840.0,417.01
+P0914,Roadster Men T-Shirt XL,Clothing,880.0,428.69
+P0915,Roadster Men T-Shirt 2XL,Clothing,920.0,580.49
+P0916,U.S. Polo Assn. Men T-Shirt Small,Clothing,1080.0,727.18
+P0917,U.S. Polo Assn. Men T-Shirt Medium,Clothing,1080.0,645.6
+P0918,U.S. Polo Assn. Men T-Shirt Large,Clothing,1134.0,751.02
+P0919,U.S. Polo Assn. Men T-Shirt XL,Clothing,1188.0,705.67
+P0920,U.S. Polo Assn. Men T-Shirt 2XL,Clothing,1242.0,570.24
+P0921,Tommy Hilfiger Men T-Shirt Small,Clothing,1200.0,550.42
+P0922,Tommy Hilfiger Men T-Shirt Medium,Clothing,1200.0,591.3
+P0923,Tommy Hilfiger Men T-Shirt Large,Clothing,1260.0,704.63
+P0924,Tommy Hilfiger Men T-Shirt XL,Clothing,1320.0,632.94
+P0925,Tommy Hilfiger Men T-Shirt 2XL,Clothing,1380.0,636.96
+P0926,Adidas Women T-Shirt Small,Clothing,937.5,583.98
+P0927,Adidas Women T-Shirt Medium,Clothing,937.5,502.75
+P0928,Adidas Women T-Shirt Large,Clothing,984.38,506.74
+P0929,Adidas Women T-Shirt XL,Clothing,1031.25,614.48
+P0930,Adidas Women T-Shirt 2XL,Clothing,1078.12,683.61
+P0931,Pepe Jeans Women T-Shirt Small,Clothing,862.5,412.69
+P0932,Pepe Jeans Women T-Shirt Medium,Clothing,862.5,544.01
+P0933,Pepe Jeans Women T-Shirt Large,Clothing,905.62,541.53
+P0934,Pepe Jeans Women T-Shirt XL,Clothing,948.75,490.41
+P0935,Pepe Jeans Women T-Shirt 2XL,Clothing,991.87,612.41
+P0936,Roadster Women T-Shirt Small,Clothing,750.0,407.24
+P0937,Roadster Women T-Shirt Medium,Clothing,750.0,353.59
+P0938,Roadster Women T-Shirt Large,Clothing,787.5,471.64
+P0939,Roadster Women T-Shirt XL,Clothing,825.0,564.11
+P0940,Roadster Women T-Shirt 2XL,Clothing,862.5,415.17
+P0941,U.S. Polo Assn. Women T-Shirt Small,Clothing,1012.5,510.74
+P0942,U.S. Polo Assn. Women T-Shirt Medium,Clothing,1012.5,473.09
+P0943,U.S. Polo Assn. Women T-Shirt Large,Clothing,1063.13,719.81
+P0944,U.S. Polo Assn. Women T-Shirt XL,Clothing,1113.75,544.79
+P0945,U.S. Polo Assn. Women T-Shirt 2XL,Clothing,1164.38,654.95
+P0946,Tommy Hilfiger Women T-Shirt Small,Clothing,1125.0,678.65
+P0947,Tommy Hilfiger Women T-Shirt Medium,Clothing,1125.0,645.53
+P0948,Tommy Hilfiger Women T-Shirt Large,Clothing,1181.25,689.05
+P0949,Tommy Hilfiger Women T-Shirt XL,Clothing,1237.5,626.43
+P0950,Tommy Hilfiger Women T-Shirt 2XL,Clothing,1293.75,708.29
+P0951,Adidas Men Jeans Small,Clothing,2250.0,1128.45
+P0952,Adidas Men Jeans Medium,Clothing,2250.0,1515.34
+P0953,Adidas Men Jeans Large,Clothing,2362.5,1620.48
+P0954,Adidas Men Jeans XL,Clothing,2475.0,1459.02
+P0955,Adidas Men Jeans 2XL,Clothing,2587.5,1209.88
+P0956,Pepe Jeans Men Jeans Small,Clothing,2070.0,1138.99
+P0957,Pepe Jeans Men Jeans Medium,Clothing,2070.0,978.15
+P0958,Pepe Jeans Men Jeans Large,Clothing,2173.5,1387.07
+P0959,Pepe Jeans Men Jeans XL,Clothing,2277.0,1562.8
+P0960,Pepe Jeans Men Jeans 2XL,Clothing,2380.5,1401.28
+P0961,Roadster Men Jeans Small,Clothing,1800.0,1150.39
+P0962,Roadster Men Jeans Medium,Clothing,1800.0,856.34
+P0963,Roadster Men Jeans Large,Clothing,1890.0,1109.41
+P0964,Roadster Men Jeans XL,Clothing,1980.0,1184.93
+P0965,Roadster Men Jeans 2XL,Clothing,2070.0,1142.21
+P0966,U.S. Polo Assn. Men Jeans Small,Clothing,2430.0,1684.61
+P0967,U.S. Polo Assn. Men Jeans Medium,Clothing,2430.0,1242.54
+P0968,U.S. Polo Assn. Men Jeans Large,Clothing,2551.5,1558.36
+P0969,U.S. Polo Assn. Men Jeans XL,Clothing,2673.0,1473.57
+P0970,U.S. Polo Assn. Men Jeans 2XL,Clothing,2794.5,1524.58
+P0971,Tommy Hilfiger Men Jeans Small,Clothing,2700.0,1397.9
+P0972,Tommy Hilfiger Men Jeans Medium,Clothing,2700.0,1545.94
+P0973,Tommy Hilfiger Men Jeans Large,Clothing,2835.0,1655.01
+P0974,Tommy Hilfiger Men Jeans XL,Clothing,2970.0,1971.68
+P0975,Tommy Hilfiger Men Jeans 2XL,Clothing,3105.0,2038.13
+P0976,Adidas Women Jeans Small,Clothing,2125.0,1087.35
+P0977,Adidas Women Jeans Medium,Clothing,2125.0,1416.44
+P0978,Adidas Women Jeans Large,Clothing,2231.25,1038.0
+P0979,Adidas Women Jeans XL,Clothing,2337.5,1511.25
+P0980,Adidas Women Jeans 2XL,Clothing,2443.75,1707.63
+P0981,Pepe Jeans Women Jeans Small,Clothing,1955.0,927.41
+P0982,Pepe Jeans Women Jeans Medium,Clothing,1955.0,995.54
+P0983,Pepe Jeans Women Jeans Large,Clothing,2052.75,1376.56
+P0984,Pepe Jeans Women Jeans XL,Clothing,2150.5,1436.59
+P0985,Pepe Jeans Women Jeans 2XL,Clothing,2248.25,1203.27
+P0986,Roadster Women Jeans Small,Clothing,1700.0,1071.32
+P0987,Roadster Women Jeans Medium,Clothing,1700.0,1028.45
+P0988,Roadster Women Jeans Large,Clothing,1785.0,1140.93
+P0989,Roadster Women Jeans XL,Clothing,1870.0,897.14
+P0990,Roadster Women Jeans 2XL,Clothing,1955.0,1157.86
+P0991,U.S. Polo Assn. Women Jeans Small,Clothing,2295.0,1221.85
+P0992,U.S. Polo Assn. Women Jeans Medium,Clothing,2295.0,1205.25
+P0993,U.S. Polo Assn. Women Jeans Large,Clothing,2409.75,1642.06
+P0994,U.S. Polo Assn. Women Jeans XL,Clothing,2524.5,1249.68
+P0995,U.S. Polo Assn. Women Jeans 2XL,Clothing,2639.25,1578.21
+P0996,Tommy Hilfiger Women Jeans Small,Clothing,2550.0,1320.13
+P0997,Tommy Hilfiger Women Jeans Medium,Clothing,2550.0,1559.86
+P0998,Tommy Hilfiger Women Jeans Large,Clothing,2677.5,1432.65
+P0999,Tommy Hilfiger Women Jeans XL,Clothing,2805.0,1584.08
+P1000,Tommy Hilfiger Women Jeans 2XL,Clothing,2932.5,1445.2
+P1001,Adidas Formal Shirt Small,Clothing,1875.0,1262.0
+P1002,Adidas Formal Shirt Medium,Clothing,1875.0,1223.92
+P1003,Adidas Formal Shirt Large,Clothing,1968.75,1027.11
+P1004,Adidas Formal Shirt XL,Clothing,2062.5,1360.92
+P1005,Adidas Formal Shirt 2XL,Clothing,2156.25,1085.81
+P1006,Pepe Jeans Formal Shirt Small,Clothing,1725.0,863.27
+P1007,Pepe Jeans Formal Shirt Medium,Clothing,1725.0,1164.73
+P1008,Pepe Jeans Formal Shirt Large,Clothing,1811.25,1038.38
+P1009,Pepe Jeans Formal Shirt XL,Clothing,1897.5,1017.51
+P1010,Pepe Jeans Formal Shirt 2XL,Clothing,1983.75,1089.46
+P1011,Roadster Formal Shirt Small,Clothing,1500.0,749.75
+P1012,Roadster Formal Shirt Medium,Clothing,1500.0,748.39
+P1013,Roadster Formal Shirt Large,Clothing,1575.0,722.27
+P1014,Roadster Formal Shirt XL,Clothing,1650.0,902.34
+P1015,Roadster Formal Shirt 2XL,Clothing,1725.0,1194.73
+P1016,U.S. Polo Assn. Formal Shirt Small,Clothing,2025.0,1321.08
+P1017,U.S. Polo Assn. Formal Shirt Medium,Clothing,2025.0,932.09
+P1018,U.S. Polo Assn. Formal Shirt Large,Clothing,2126.25,1043.98
+P1019,U.S. Polo Assn. Formal Shirt XL,Clothing,2227.5,1272.6
+P1020,U.S. Polo Assn. Formal Shirt 2XL,Clothing,2328.75,1305.18
+P1021,Tommy Hilfiger Formal Shirt Small,Clothing,2250.0,1254.15
+P1022,Tommy Hilfiger Formal Shirt Medium,Clothing,2250.0,1409.21
+P1023,Tommy Hilfiger Formal Shirt Large,Clothing,2362.5,1594.4
+P1024,Tommy Hilfiger Formal Shirt XL,Clothing,2475.0,1134.17
+P1025,Tommy Hilfiger Formal Shirt 2XL,Clothing,2587.5,1208.0
+P1026,Adidas Casual Shirt Small,Clothing,1500.0,990.03
+P1027,Adidas Casual Shirt Medium,Clothing,1500.0,885.61
+P1028,Adidas Casual Shirt Large,Clothing,1575.0,959.24
+P1029,Adidas Casual Shirt XL,Clothing,1650.0,878.12
+P1030,Adidas Casual Shirt 2XL,Clothing,1725.0,1170.52
+P1031,Pepe Jeans Casual Shirt Small,Clothing,1380.0,630.1
+P1032,Pepe Jeans Casual Shirt Medium,Clothing,1380.0,923.69
+P1033,Pepe Jeans Casual Shirt Large,Clothing,1449.0,751.75
+P1034,Pepe Jeans Casual Shirt XL,Clothing,1518.0,925.75
+P1035,Pepe Jeans Casual Shirt 2XL,Clothing,1587.0,866.43
+P1036,Roadster Casual Shirt Small,Clothing,1200.0,579.66
+P1037,Roadster Casual Shirt Medium,Clothing,1200.0,729.43
+P1038,Roadster Casual Shirt Large,Clothing,1260.0,879.73
+P1039,Roadster Casual Shirt XL,Clothing,1320.0,883.52
+P1040,Roadster Casual Shirt 2XL,Clothing,1380.0,626.48
+P1041,U.S. Polo Assn. Casual Shirt Small,Clothing,1620.0,975.03
+P1042,U.S. Polo Assn. Casual Shirt Medium,Clothing,1620.0,927.33
+P1043,U.S. Polo Assn. Casual Shirt Large,Clothing,1701.0,1011.86
+P1044,U.S. Polo Assn. Casual Shirt XL,Clothing,1782.0,1026.14
+P1045,U.S. Polo Assn. Casual Shirt 2XL,Clothing,1863.0,1226.7
+P1046,Tommy Hilfiger Casual Shirt Small,Clothing,1800.0,887.64
+P1047,Tommy Hilfiger Casual Shirt Medium,Clothing,1800.0,1000.08
+P1048,Tommy Hilfiger Casual Shirt Large,Clothing,1890.0,1072.88
+P1049,Tommy Hilfiger Casual Shirt XL,Clothing,1980.0,1282.78
+P1050,Tommy Hilfiger Casual Shirt 2XL,Clothing,2070.0,1380.35
+P1051,Adidas Kurti Small,Clothing,1250.0,619.11
+P1052,Adidas Kurti Medium,Clothing,1250.0,795.96
+P1053,Adidas Kurti Large,Clothing,1312.5,850.61
+P1054,Adidas Kurti XL,Clothing,1375.0,701.73
+P1055,Adidas Kurti 2XL,Clothing,1437.5,831.96
+P1056,Pepe Jeans Kurti Small,Clothing,1150.0,533.84
+P1057,Pepe Jeans Kurti Medium,Clothing,1150.0,645.46
+P1058,Pepe Jeans Kurti Large,Clothing,1207.5,793.86
+P1059,Pepe Jeans Kurti XL,Clothing,1265.0,632.16
+P1060,Pepe Jeans Kurti 2XL,Clothing,1322.5,755.9
+P1061,Roadster Kurti Small,Clothing,1000.0,652.93
+P1062,Roadster Kurti Medium,Clothing,1000.0,683.72
+P1063,Roadster Kurti Large,Clothing,1050.0,568.32
+P1064,Roadster Kurti XL,Clothing,1100.0,709.98
+P1065,Roadster Kurti 2XL,Clothing,1150.0,533.18
+P1066,U.S. Polo Assn. Kurti Small,Clothing,1350.0,818.87
+P1067,U.S. Polo Assn. Kurti Medium,Clothing,1350.0,931.71
+P1068,U.S. Polo Assn. Kurti Large,Clothing,1417.5,926.09
+P1069,U.S. Polo Assn. Kurti XL,Clothing,1485.0,670.11
+P1070,U.S. Polo Assn. Kurti 2XL,Clothing,1552.5,967.81
+P1071,Tommy Hilfiger Kurti Small,Clothing,1500.0,804.89
+P1072,Tommy Hilfiger Kurti Medium,Clothing,1500.0,1008.15
+P1073,Tommy Hilfiger Kurti Large,Clothing,1575.0,1077.21
+P1074,Tommy Hilfiger Kurti XL,Clothing,1650.0,799.52
+P1075,Tommy Hilfiger Kurti 2XL,Clothing,1725.0,974.87
+P1076,Adidas Leggings Small,Clothing,750.0,413.01
+P1077,Adidas Leggings Medium,Clothing,750.0,518.17
+P1078,Adidas Leggings Large,Clothing,787.5,513.99
+P1079,Adidas Leggings XL,Clothing,825.0,510.17
+P1080,Adidas Leggings 2XL,Clothing,862.5,537.86
+P1081,Pepe Jeans Leggings Small,Clothing,690.0,350.97
+P1082,Pepe Jeans Leggings Medium,Clothing,690.0,480.06
+P1083,Pepe Jeans Leggings Large,Clothing,724.5,386.8
+P1084,Pepe Jeans Leggings XL,Clothing,759.0,392.46
+P1085,Pepe Jeans Leggings 2XL,Clothing,793.5,409.4
+P1086,Roadster Leggings Small,Clothing,600.0,312.87
+P1087,Roadster Leggings Medium,Clothing,600.0,348.09
+P1088,Roadster Leggings Large,Clothing,630.0,375.13
+P1089,Roadster Leggings XL,Clothing,660.0,398.37
+P1090,Roadster Leggings 2XL,Clothing,690.0,442.66
+P1091,U.S. Polo Assn. Leggings Small,Clothing,810.0,384.67
+P1092,U.S. Polo Assn. Leggings Medium,Clothing,810.0,451.81
+P1093,U.S. Polo Assn. Leggings Large,Clothing,850.5,478.71
+P1094,U.S. Polo Assn. Leggings XL,Clothing,891.0,447.02
+P1095,U.S. Polo Assn. Leggings 2XL,Clothing,931.5,534.57
+P1096,Tommy Hilfiger Leggings Small,Clothing,900.0,462.64
+P1097,Tommy Hilfiger Leggings Medium,Clothing,900.0,607.8
+P1098,Tommy Hilfiger Leggings Large,Clothing,945.0,431.31
+P1099,Tommy Hilfiger Leggings XL,Clothing,990.0,541.29
+P1100,Tommy Hilfiger Leggings 2XL,Clothing,1035.0,517.37
+P1101,Adidas Track Pants Small,Clothing,1500.0,929.06
+P1102,Adidas Track Pants Medium,Clothing,1500.0,1041.21
+P1103,Adidas Track Pants Large,Clothing,1575.0,725.02
+P1104,Adidas Track Pants XL,Clothing,1650.0,1110.0
+P1105,Adidas Track Pants 2XL,Clothing,1725.0,1040.98
+P1106,Pepe Jeans Track Pants Small,Clothing,1380.0,784.74
+P1107,Pepe Jeans Track Pants Medium,Clothing,1380.0,811.08
+P1108,Pepe Jeans Track Pants Large,Clothing,1449.0,858.37
+P1109,Pepe Jeans Track Pants XL,Clothing,1518.0,1040.4
+P1110,Pepe Jeans Track Pants 2XL,Clothing,1587.0,917.42
+P1111,Roadster Track Pants Small,Clothing,1200.0,569.64
+P1112,Roadster Track Pants Medium,Clothing,1200.0,683.1
+P1113,Roadster Track Pants Large,Clothing,1260.0,642.51
+P1114,Roadster Track Pants XL,Clothing,1320.0,630.22
+P1115,Roadster Track Pants 2XL,Clothing,1380.0,836.05
+P1116,U.S. Polo Assn. Track Pants Small,Clothing,1620.0,992.83
+P1117,U.S. Polo Assn. Track Pants Medium,Clothing,1620.0,932.55
+P1118,U.S. Polo Assn. Track Pants Large,Clothing,1701.0,860.6
+P1119,U.S. Polo Assn. Track Pants XL,Clothing,1782.0,840.96
+P1120,U.S. Polo Assn. Track Pants 2XL,Clothing,1863.0,1013.04
+P1121,Tommy Hilfiger Track Pants Small,Clothing,1800.0,1236.24
+P1122,Tommy Hilfiger Track Pants Medium,Clothing,1800.0,1244.55
+P1123,Tommy Hilfiger Track Pants Large,Clothing,1890.0,908.99
+P1124,Tommy Hilfiger Track Pants XL,Clothing,1980.0,990.86
+P1125,Tommy Hilfiger Track Pants 2XL,Clothing,2070.0,989.3
+P1126,Adidas Shorts Small,Clothing,875.0,441.5
+P1127,Adidas Shorts Medium,Clothing,875.0,449.51
+P1128,Adidas Shorts Large,Clothing,918.75,611.34
+P1129,Adidas Shorts XL,Clothing,962.5,465.43
+P1130,Adidas Shorts 2XL,Clothing,1006.25,623.84
+P1131,Pepe Jeans Shorts Small,Clothing,805.0,438.44
+P1132,Pepe Jeans Shorts Medium,Clothing,805.0,399.4
+P1133,Pepe Jeans Shorts Large,Clothing,845.25,569.14
+P1134,Pepe Jeans Shorts XL,Clothing,885.5,467.96
+P1135,Pepe Jeans Shorts 2XL,Clothing,925.75,492.14
+P1136,Roadster Shorts Small,Clothing,700.0,325.61
+P1137,Roadster Shorts Medium,Clothing,700.0,443.83
+P1138,Roadster Shorts Large,Clothing,735.0,393.7
+P1139,Roadster Shorts XL,Clothing,770.0,446.83
+P1140,Roadster Shorts 2XL,Clothing,805.0,468.2
+P1141,U.S. Polo Assn. Shorts Small,Clothing,945.0,430.38
+P1142,U.S. Polo Assn. Shorts Medium,Clothing,945.0,524.11
+P1143,U.S. Polo Assn. Shorts Large,Clothing,992.25,683.38
+P1144,U.S. Polo Assn. Shorts XL,Clothing,1039.5,657.47
+P1145,U.S. Polo Assn. Shorts 2XL,Clothing,1086.75,551.99
+P1146,Tommy Hilfiger Shorts Small,Clothing,1050.0,709.3
+P1147,Tommy Hilfiger Shorts Medium,Clothing,1050.0,534.77
+P1148,Tommy Hilfiger Shorts Large,Clothing,1102.5,623.2
+P1149,Tommy Hilfiger Shorts XL,Clothing,1155.0,608.37
+P1150,Tommy Hilfiger Shorts 2XL,Clothing,1207.5,708.63
+P1151,Adidas Jacket Small,Clothing,3750.0,1960.27
+P1152,Adidas Jacket Medium,Clothing,3750.0,2578.67
+P1153,Adidas Jacket Large,Clothing,3937.5,2622.94
+P1154,Adidas Jacket XL,Clothing,4125.0,2482.65
+P1155,Adidas Jacket 2XL,Clothing,4312.5,2246.14
+P1156,Pepe Jeans Jacket Small,Clothing,3450.0,1928.75
+P1157,Pepe Jeans Jacket Medium,Clothing,3450.0,1868.19
+P1158,Pepe Jeans Jacket Large,Clothing,3622.5,2029.82
+P1159,Pepe Jeans Jacket XL,Clothing,3795.0,1869.66
+P1160,Pepe Jeans Jacket 2XL,Clothing,3967.5,1995.02
+P1161,Roadster Jacket Small,Clothing,3000.0,1515.87
+P1162,Roadster Jacket Medium,Clothing,3000.0,1585.52
+P1163,Roadster Jacket Large,Clothing,3150.0,1593.42
+P1164,Roadster Jacket XL,Clothing,3300.0,2256.9
+P1165,Roadster Jacket 2XL,Clothing,3450.0,2023.42
+P1166,U.S. Polo Assn. Jacket Small,Clothing,4050.0,2213.47
+P1167,U.S. Polo Assn. Jacket Medium,Clothing,4050.0,1986.17
+P1168,U.S. Polo Assn. Jacket Large,Clothing,4252.5,2523.43
+P1169,U.S. Polo Assn. Jacket XL,Clothing,4455.0,2989.81
+P1170,U.S. Polo Assn. Jacket 2XL,Clothing,4657.5,3034.21
+P1171,Tommy Hilfiger Jacket Small,Clothing,4500.0,2663.88
+P1172,Tommy Hilfiger Jacket Medium,Clothing,4500.0,2857.95
+P1173,Tommy Hilfiger Jacket Large,Clothing,4725.0,2146.55
+P1174,Tommy Hilfiger Jacket XL,Clothing,4950.0,2746.53
+P1175,Tommy Hilfiger Jacket 2XL,Clothing,5175.0,3599.65
+P1176,Adidas Sweatshirt Small,Clothing,2250.0,1315.02
+P1177,Adidas Sweatshirt Medium,Clothing,2250.0,1030.54
+P1178,Adidas Sweatshirt Large,Clothing,2362.5,1474.78
+P1179,Adidas Sweatshirt XL,Clothing,2475.0,1677.77
+P1180,Adidas Sweatshirt 2XL,Clothing,2587.5,1334.96
+P1181,Pepe Jeans Sweatshirt Small,Clothing,2070.0,1193.68
+P1182,Pepe Jeans Sweatshirt Medium,Clothing,2070.0,1235.0
+P1183,Pepe Jeans Sweatshirt Large,Clothing,2173.5,1432.64
+P1184,Pepe Jeans Sweatshirt XL,Clothing,2277.0,1444.94
+P1185,Pepe Jeans Sweatshirt 2XL,Clothing,2380.5,1284.48
+P1186,Roadster Sweatshirt Small,Clothing,1800.0,1155.42
+P1187,Roadster Sweatshirt Medium,Clothing,1800.0,1097.29
+P1188,Roadster Sweatshirt Large,Clothing,1890.0,1202.65
+P1189,Roadster Sweatshirt XL,Clothing,1980.0,1357.36
+P1190,Roadster Sweatshirt 2XL,Clothing,2070.0,1211.27
+P1191,U.S. Polo Assn. Sweatshirt Small,Clothing,2430.0,1664.65
+P1192,U.S. Polo Assn. Sweatshirt Medium,Clothing,2430.0,1369.63
+P1193,U.S. Polo Assn. Sweatshirt Large,Clothing,2551.5,1225.18
+P1194,U.S. Polo Assn. Sweatshirt XL,Clothing,2673.0,1327.78
+P1195,U.S. Polo Assn. Sweatshirt 2XL,Clothing,2794.5,1407.94
+P1196,Tommy Hilfiger Sweatshirt Small,Clothing,2700.0,1673.07
+P1197,Tommy Hilfiger Sweatshirt Medium,Clothing,2700.0,1511.11
+P1198,Tommy Hilfiger Sweatshirt Large,Clothing,2835.0,1521.19
+P1199,Tommy Hilfiger Sweatshirt XL,Clothing,2970.0,1658.32
+P1200,Tommy Hilfiger Sweatshirt 2XL,Clothing,3105.0,2131.87
+P1201,Adidas Hoodie Small,Clothing,2750.0,1381.25
+P1202,Adidas Hoodie Medium,Clothing,2750.0,1828.21
+P1203,Adidas Hoodie Large,Clothing,2887.5,1468.64
+P1204,Adidas Hoodie XL,Clothing,3025.0,1838.5
+P1205,Adidas Hoodie 2XL,Clothing,3162.5,1831.61
+P1206,Pepe Jeans Hoodie Small,Clothing,2530.0,1511.82
+P1207,Pepe Jeans Hoodie Medium,Clothing,2530.0,1243.42
+P1208,Pepe Jeans Hoodie Large,Clothing,2656.5,1603.78
+P1209,Pepe Jeans Hoodie XL,Clothing,2783.0,1527.25
+P1210,Pepe Jeans Hoodie 2XL,Clothing,2909.5,1776.0
+P1211,Roadster Hoodie Small,Clothing,2200.0,1124.58
+P1212,Roadster Hoodie Medium,Clothing,2200.0,1087.72
+P1213,Roadster Hoodie Large,Clothing,2310.0,1332.6
+P1214,Roadster Hoodie XL,Clothing,2420.0,1466.8
+P1215,Roadster Hoodie 2XL,Clothing,2530.0,1327.88
+P1216,U.S. Polo Assn. Hoodie Small,Clothing,2970.0,1371.99
+P1217,U.S. Polo Assn. Hoodie Medium,Clothing,2970.0,1780.52
+P1218,U.S. Polo Assn. Hoodie Large,Clothing,3118.5,1670.07
+P1219,U.S. Polo Assn. Hoodie XL,Clothing,3267.0,1592.2
+P1220,U.S. Polo Assn. Hoodie 2XL,Clothing,3415.5,1648.56
+P1221,Tommy Hilfiger Hoodie Small,Clothing,3300.0,1666.21
+P1222,Tommy Hilfiger Hoodie Medium,Clothing,3300.0,2127.78
+P1223,Tommy Hilfiger Hoodie Large,Clothing,3465.0,1560.06
+P1224,Tommy Hilfiger Hoodie XL,Clothing,3630.0,2000.82
+P1225,Tommy Hilfiger Hoodie 2XL,Clothing,3795.0,2419.79
+P1226,Adidas Saree Small,Clothing,3125.0,2061.83
+P1227,Adidas Saree Medium,Clothing,3125.0,1758.42
+P1228,Adidas Saree Large,Clothing,3281.25,1762.46
+P1229,Adidas Saree XL,Clothing,3437.5,1615.98
+P1230,Adidas Saree 2XL,Clothing,3593.75,2393.22
+P1231,Pepe Jeans Saree Small,Clothing,2875.0,1855.48
+P1232,Pepe Jeans Saree Medium,Clothing,2875.0,1363.13
+P1233,Pepe Jeans Saree Large,Clothing,3018.75,1832.11
+P1234,Pepe Jeans Saree XL,Clothing,3162.5,1641.85
+P1235,Pepe Jeans Saree 2XL,Clothing,3306.25,1494.4
+P1236,Roadster Saree Small,Clothing,2500.0,1633.5
+P1237,Roadster Saree Medium,Clothing,2500.0,1488.09
+P1238,Roadster Saree Large,Clothing,2625.0,1804.8
+P1239,Roadster Saree XL,Clothing,2750.0,1534.53
+P1240,Roadster Saree 2XL,Clothing,2875.0,1723.49
+P1241,U.S. Polo Assn. Saree Small,Clothing,3375.0,2226.6
+P1242,U.S. Polo Assn. Saree Medium,Clothing,3375.0,1725.21
+P1243,U.S. Polo Assn. Saree Large,Clothing,3543.75,1850.74
+P1244,U.S. Polo Assn. Saree XL,Clothing,3712.5,2397.87
+P1245,U.S. Polo Assn. Saree 2XL,Clothing,3881.25,1943.52
+P1246,Tommy Hilfiger Saree Small,Clothing,3750.0,1942.67
+P1247,Tommy Hilfiger Saree Medium,Clothing,3750.0,2526.9
+P1248,Tommy Hilfiger Saree Large,Clothing,3937.5,2602.83
+P1249,Tommy Hilfiger Saree XL,Clothing,4125.0,2594.44
+P1250,Tommy Hilfiger Saree 2XL,Clothing,4312.5,2826.69
+P1251,Adidas Dress Small,Clothing,2500.0,1167.09
+P1252,Adidas Dress Medium,Clothing,2500.0,1475.71
+P1253,Adidas Dress Large,Clothing,2625.0,1235.43
+P1254,Adidas Dress XL,Clothing,2750.0,1413.32
+P1255,Adidas Dress 2XL,Clothing,2875.0,1784.55
+P1256,Pepe Jeans Dress Small,Clothing,2300.0,1201.36
+P1257,Pepe Jeans Dress Medium,Clothing,2300.0,1186.2
+P1258,Pepe Jeans Dress Large,Clothing,2415.0,1164.1
+P1259,Pepe Jeans Dress XL,Clothing,2530.0,1342.46
+P1260,Pepe Jeans Dress 2XL,Clothing,2645.0,1750.27
+P1261,Roadster Dress Small,Clothing,2000.0,1308.1
+P1262,Roadster Dress Medium,Clothing,2000.0,1268.27
+P1263,Roadster Dress Large,Clothing,2100.0,1060.11
+P1264,Roadster Dress XL,Clothing,2200.0,1484.73
+P1265,Roadster Dress 2XL,Clothing,2300.0,1556.06
+P1266,U.S. Polo Assn. Dress Small,Clothing,2700.0,1276.54
+P1267,U.S. Polo Assn. Dress Medium,Clothing,2700.0,1866.36
+P1268,U.S. Polo Assn. Dress Large,Clothing,2835.0,1966.29
+P1269,U.S. Polo Assn. Dress XL,Clothing,2970.0,1339.84
+P1270,U.S. Polo Assn. Dress 2XL,Clothing,3105.0,1828.93
+P1271,Tommy Hilfiger Dress Small,Clothing,3000.0,1719.14
+P1272,Tommy Hilfiger Dress Medium,Clothing,3000.0,1748.84
+P1273,Tommy Hilfiger Dress Large,Clothing,3150.0,1680.67
+P1274,Tommy Hilfiger Dress XL,Clothing,3300.0,2115.97
+P1275,Tommy Hilfiger Dress 2XL,Clothing,3450.0,1666.6
+P1276,Adidas Skirt Small,Clothing,1500.0,762.86
+P1277,Adidas Skirt Medium,Clothing,1500.0,817.81
+P1278,Adidas Skirt Large,Clothing,1575.0,748.82
+P1279,Adidas Skirt XL,Clothing,1650.0,782.94
+P1280,Adidas Skirt 2XL,Clothing,1725.0,1119.03
+P1281,Pepe Jeans Skirt Small,Clothing,1380.0,822.97
+P1282,Pepe Jeans Skirt Medium,Clothing,1380.0,958.67
+P1283,Pepe Jeans Skirt Large,Clothing,1449.0,890.29
+P1284,Pepe Jeans Skirt XL,Clothing,1518.0,743.05
+P1285,Pepe Jeans Skirt 2XL,Clothing,1587.0,1054.45
+P1286,Roadster Skirt Small,Clothing,1200.0,705.45
+P1287,Roadster Skirt Medium,Clothing,1200.0,631.62
+P1288,Roadster Skirt Large,Clothing,1260.0,767.65
+P1289,Roadster Skirt XL,Clothing,1320.0,840.29
+P1290,Roadster Skirt 2XL,Clothing,1380.0,722.81
+P1291,U.S. Polo Assn. Skirt Small,Clothing,1620.0,879.99
+P1292,U.S. Polo Assn. Skirt Medium,Clothing,1620.0,841.94
+P1293,U.S. Polo Assn. Skirt Large,Clothing,1701.0,1152.81
+P1294,U.S. Polo Assn. Skirt XL,Clothing,1782.0,1087.88
+P1295,U.S. Polo Assn. Skirt 2XL,Clothing,1863.0,1254.29
+P1296,Tommy Hilfiger Skirt Small,Clothing,1800.0,880.17
+P1297,Tommy Hilfiger Skirt Medium,Clothing,1800.0,834.51
+P1298,Tommy Hilfiger Skirt Large,Clothing,1890.0,858.45
+P1299,Tommy Hilfiger Skirt XL,Clothing,1980.0,986.68
+P1300,Tommy Hilfiger Skirt 2XL,Clothing,2070.0,1148.45
+P1301,Adidas Blazer Small,Clothing,4375.0,2906.63
+P1302,Adidas Blazer Medium,Clothing,4375.0,2850.74
+P1303,Adidas Blazer Large,Clothing,4593.75,2683.78
+P1304,Adidas Blazer XL,Clothing,4812.5,2770.83
+P1305,Adidas Blazer 2XL,Clothing,5031.25,2836.84
+P1306,Pepe Jeans Blazer Small,Clothing,4025.0,2460.86
+P1307,Pepe Jeans Blazer Medium,Clothing,4025.0,2089.63
+P1308,Pepe Jeans Blazer Large,Clothing,4226.25,2862.04
+P1309,Pepe Jeans Blazer XL,Clothing,4427.5,2003.92
+P1310,Pepe Jeans Blazer 2XL,Clothing,4628.75,2846.04
+P1311,Roadster Blazer Small,Clothing,3500.0,1657.8
+P1312,Roadster Blazer Medium,Clothing,3500.0,1583.54
+P1313,Roadster Blazer Large,Clothing,3675.0,1974.54
+P1314,Roadster Blazer XL,Clothing,3850.0,2157.16
+P1315,Roadster Blazer 2XL,Clothing,4025.0,2191.14
+P1316,U.S. Polo Assn. Blazer Small,Clothing,4725.0,2915.6
+P1317,U.S. Polo Assn. Blazer Medium,Clothing,4725.0,2975.41
+P1318,U.S. Polo Assn. Blazer Large,Clothing,4961.25,2924.66
+P1319,U.S. Polo Assn. Blazer XL,Clothing,5197.5,2655.63
+P1320,U.S. Polo Assn. Blazer 2XL,Clothing,5433.75,2592.67
+P1321,Tommy Hilfiger Blazer Small,Clothing,5250.0,3309.79
+P1322,Tommy Hilfiger Blazer Medium,Clothing,5250.0,3275.55
+P1323,Tommy Hilfiger Blazer Large,Clothing,5512.5,3211.61
+P1324,Tommy Hilfiger Blazer XL,Clothing,5775.0,3906.18
+P1325,Tommy Hilfiger Blazer 2XL,Clothing,6037.5,2963.65
+P1326,Adidas Socks Small,Clothing,312.5,153.1
+P1327,Adidas Socks Medium,Clothing,312.5,182.23
+P1328,Adidas Socks Large,Clothing,328.12,167.7
+P1329,Adidas Socks XL,Clothing,343.75,220.52
+P1330,Adidas Socks 2XL,Clothing,359.38,229.13
+P1331,Pepe Jeans Socks Small,Clothing,287.5,153.44
+P1332,Pepe Jeans Socks Medium,Clothing,287.5,145.68
+P1333,Pepe Jeans Socks Large,Clothing,301.88,205.04
+P1334,Pepe Jeans Socks XL,Clothing,316.25,173.49
+P1335,Pepe Jeans Socks 2XL,Clothing,330.62,174.78
+P1336,Roadster Socks Small,Clothing,250.0,172.22
+P1337,Roadster Socks Medium,Clothing,250.0,147.21
+P1338,Roadster Socks Large,Clothing,262.5,142.41
+P1339,Roadster Socks XL,Clothing,275.0,167.18
+P1340,Roadster Socks 2XL,Clothing,287.5,137.9
+P1341,U.S. Polo Assn. Socks Small,Clothing,337.5,235.26
+P1342,U.S. Polo Assn. Socks Medium,Clothing,337.5,153.1
+P1343,U.S. Polo Assn. Socks Large,Clothing,354.38,161.22
+P1344,U.S. Polo Assn. Socks XL,Clothing,371.25,184.36
+P1345,U.S. Polo Assn. Socks 2XL,Clothing,388.12,216.13
+P1346,Tommy Hilfiger Socks Small,Clothing,375.0,200.97
+P1347,Tommy Hilfiger Socks Medium,Clothing,375.0,190.72
+P1348,Tommy Hilfiger Socks Large,Clothing,393.75,181.77
+P1349,Tommy Hilfiger Socks XL,Clothing,412.5,227.46
+P1350,Tommy Hilfiger Socks 2XL,Clothing,431.25,286.75
+P1351,Adidas Cap Small,Clothing,625.0,412.06
+P1352,Adidas Cap Medium,Clothing,625.0,383.42
+P1353,Adidas Cap Large,Clothing,656.25,336.54
+P1354,Adidas Cap XL,Clothing,687.5,330.51
+P1355,Adidas Cap 2XL,Clothing,718.75,446.65
+P1356,Pepe Jeans Cap Small,Clothing,575.0,291.23
+P1357,Pepe Jeans Cap Medium,Clothing,575.0,339.98
+P1358,Pepe Jeans Cap Large,Clothing,603.75,308.26
+P1359,Pepe Jeans Cap XL,Clothing,632.5,358.55
+P1360,Pepe Jeans Cap 2XL,Clothing,661.25,312.12
+P1361,Roadster Cap Small,Clothing,500.0,264.65
+P1362,Roadster Cap Medium,Clothing,500.0,337.86
+P1363,Roadster Cap Large,Clothing,525.0,357.84
+P1364,Roadster Cap XL,Clothing,550.0,307.66
+P1365,Roadster Cap 2XL,Clothing,575.0,332.09
+P1366,U.S. Polo Assn. Cap Small,Clothing,675.0,416.07
+P1367,U.S. Polo Assn. Cap Medium,Clothing,675.0,337.83
+P1368,U.S. Polo Assn. Cap Large,Clothing,708.75,358.16
+P1369,U.S. Polo Assn. Cap XL,Clothing,742.5,433.75
+P1370,U.S. Polo Assn. Cap 2XL,Clothing,776.25,506.46
+P1371,Tommy Hilfiger Cap Small,Clothing,750.0,455.01
+P1372,Tommy Hilfiger Cap Medium,Clothing,750.0,386.71
+P1373,Tommy Hilfiger Cap Large,Clothing,787.5,368.08
+P1374,Tommy Hilfiger Cap XL,Clothing,825.0,516.09
+P1375,Tommy Hilfiger Cap 2XL,Clothing,862.5,519.83
+P1376,Adidas Innerwear Small,Clothing,500.0,226.63
+P1377,Adidas Innerwear Medium,Clothing,500.0,262.8
+P1378,Adidas Innerwear Large,Clothing,525.0,314.01
+P1379,Adidas Innerwear XL,Clothing,550.0,314.7
+P1380,Adidas Innerwear 2XL,Clothing,575.0,366.72
+P1381,Pepe Jeans Innerwear Small,Clothing,460.0,280.1
+P1382,Pepe Jeans Innerwear Medium,Clothing,460.0,319.21
+P1383,Pepe Jeans Innerwear Large,Clothing,483.0,309.48
+P1384,Pepe Jeans Innerwear XL,Clothing,506.0,297.77
+P1385,Pepe Jeans Innerwear 2XL,Clothing,529.0,304.91
+P1386,Roadster Innerwear Small,Clothing,400.0,216.5
+P1387,Roadster Innerwear Medium,Clothing,400.0,198.35
+P1388,Roadster Innerwear Large,Clothing,420.0,272.74
+P1389,Roadster Innerwear XL,Clothing,440.0,232.72
+P1390,Roadster Innerwear 2XL,Clothing,460.0,241.68
+P1391,U.S. Polo Assn. Innerwear Small,Clothing,540.0,252.06
+P1392,U.S. Polo Assn. Innerwear Medium,Clothing,540.0,311.46
+P1393,U.S. Polo Assn. Innerwear Large,Clothing,567.0,385.69
+P1394,U.S. Polo Assn. Innerwear XL,Clothing,594.0,343.65
+P1395,U.S. Polo Assn. Innerwear 2XL,Clothing,621.0,361.33
+P1396,Tommy Hilfiger Innerwear Small,Clothing,600.0,280.4
+P1397,Tommy Hilfiger Innerwear Medium,Clothing,600.0,332.59
+P1398,Tommy Hilfiger Innerwear Large,Clothing,630.0,342.93
+P1399,Tommy Hilfiger Innerwear XL,Clothing,660.0,348.55
+P1400,Tommy Hilfiger Innerwear 2XL,Clothing,690.0,405.91
+P1401,Standard Cricket Bat Small,Sports,1800.0,1336.57
+P1402,Standard Cricket Bat Medium,Sports,1980.0,1149.4
+P1403,Standard Cricket Bat Large,Sports,2160.0,1443.25
+P1404,Professional Cricket Bat Small,Sports,2430.0,1798.83
+P1405,Professional Cricket Bat Medium,Sports,2673.0,1906.16
+P1406,Professional Cricket Bat Large,Sports,2916.0,1905.71
+P1407,Training Cricket Bat Small,Sports,2070.0,1495.31
+P1408,Training Cricket Bat Medium,Sports,2277.0,1610.85
+P1409,Training Cricket Bat Large,Sports,2484.0,1809.18
+P1410,Standard Cricket Ball Small,Sports,250.0,173.93
+P1411,Standard Cricket Ball Medium,Sports,275.0,184.6
+P1412,Standard Cricket Ball Large,Sports,300.0,188.5
+P1413,Professional Cricket Ball Small,Sports,337.5,192.73
+P1414,Professional Cricket Ball Medium,Sports,371.25,263.05
+P1415,Professional Cricket Ball Large,Sports,405.0,276.43
+P1416,Training Cricket Ball Small,Sports,287.5,169.9
+P1417,Training Cricket Ball Medium,Sports,316.25,200.65
+P1418,Training Cricket Ball Large,Sports,345.0,202.44
+P1419,Standard Football Small,Sports,900.0,560.85
+P1420,Standard Football Medium,Sports,990.0,570.1
+P1421,Standard Football Large,Sports,1080.0,737.79
+P1422,Professional Football Small,Sports,1215.0,850.08
+P1423,Professional Football Medium,Sports,1336.5,892.85
+P1424,Professional Football Large,Sports,1458.0,1091.49
+P1425,Training Football Small,Sports,1035.0,680.65
+P1426,Training Football Medium,Sports,1138.5,713.2
+P1427,Training Football Large,Sports,1242.0,731.96
+P1428,Standard Basketball Small,Sports,1200.0,826.5
+P1429,Standard Basketball Medium,Sports,1320.0,970.99
+P1430,Standard Basketball Large,Sports,1440.0,1069.89
+P1431,Professional Basketball Small,Sports,1620.0,1025.18
+P1432,Professional Basketball Medium,Sports,1782.0,1199.2
+P1433,Professional Basketball Large,Sports,1944.0,1176.8
+P1434,Training Basketball Small,Sports,1380.0,951.04
+P1435,Training Basketball Medium,Sports,1518.0,1087.75
+P1436,Training Basketball Large,Sports,1656.0,1056.06
+P1437,Standard Volleyball Small,Sports,800.0,524.97
+P1438,Standard Volleyball Medium,Sports,880.0,557.84
+P1439,Standard Volleyball Large,Sports,960.0,614.42
+P1440,Professional Volleyball Small,Sports,1080.0,667.59
+P1441,Professional Volleyball Medium,Sports,1188.0,728.59
+P1442,Professional Volleyball Large,Sports,1296.0,736.49
+P1443,Training Volleyball Small,Sports,920.0,578.68
+P1444,Training Volleyball Medium,Sports,1012.0,631.45
+P1445,Training Volleyball Large,Sports,1104.0,764.65
+P1446,Standard Badminton Racket Small,Sports,1500.0,853.67
+P1447,Standard Badminton Racket Medium,Sports,1650.0,1079.5
+P1448,Standard Badminton Racket Large,Sports,1800.0,1142.83
+P1449,Professional Badminton Racket Small,Sports,2025.0,1448.18
+P1450,Professional Badminton Racket Medium,Sports,2227.5,1519.65
+P1451,Professional Badminton Racket Large,Sports,2430.0,1589.21
+P1452,Training Badminton Racket Small,Sports,1725.0,1117.34
+P1453,Training Badminton Racket Medium,Sports,1897.5,1225.89
+P1454,Training Badminton Racket Large,Sports,2070.0,1303.14
+P1455,Standard Shuttlecock Small,Sports,400.0,258.4
+P1456,Standard Shuttlecock Medium,Sports,440.0,282.31
+P1457,Standard Shuttlecock Large,Sports,480.0,303.41
+P1458,Professional Shuttlecock Small,Sports,540.0,343.25
+P1459,Professional Shuttlecock Medium,Sports,594.0,329.91
+P1460,Professional Shuttlecock Large,Sports,648.0,393.59
+P1461,Training Shuttlecock Small,Sports,460.0,278.39
+P1462,Training Shuttlecock Medium,Sports,506.0,339.16
+P1463,Training Shuttlecock Large,Sports,552.0,356.6
+P1464,Standard Tennis Racket Small,Sports,2500.0,1444.15
+P1465,Standard Tennis Racket Medium,Sports,2750.0,1969.7
+P1466,Standard Tennis Racket Large,Sports,3000.0,2036.58
+P1467,Professional Tennis Racket Small,Sports,3375.0,1898.14
+P1468,Professional Tennis Racket Medium,Sports,3712.5,2673.92
+P1469,Professional Tennis Racket Large,Sports,4050.0,2511.97
+P1470,Training Tennis Racket Small,Sports,2875.0,1962.08
+P1471,Training Tennis Racket Medium,Sports,3162.5,2292.79
+P1472,Training Tennis Racket Large,Sports,3450.0,2074.08
+P1473,Standard Yoga Mat Small,Sports,700.0,457.01
+P1474,Standard Yoga Mat Medium,Sports,770.0,571.48
+P1475,Standard Yoga Mat Large,Sports,840.0,516.34
+P1476,Professional Yoga Mat Small,Sports,945.0,665.67
+P1477,Professional Yoga Mat Medium,Sports,1039.5,712.93
+P1478,Professional Yoga Mat Large,Sports,1134.0,639.39
+P1479,Training Yoga Mat Small,Sports,805.0,573.72
+P1480,Training Yoga Mat Medium,Sports,885.5,638.17
+P1481,Training Yoga Mat Large,Sports,966.0,652.07
+P1482,Standard Dumbbells Small,Sports,1500.0,972.39
+P1483,Standard Dumbbells Medium,Sports,1650.0,1180.01
+P1484,Standard Dumbbells Large,Sports,1800.0,1053.95
+P1485,Professional Dumbbells Small,Sports,2025.0,1282.06
+P1486,Professional Dumbbells Medium,Sports,2227.5,1617.79
+P1487,Professional Dumbbells Large,Sports,2430.0,1744.44
+P1488,Training Dumbbells Small,Sports,1725.0,1218.59
+P1489,Training Dumbbells Medium,Sports,1897.5,1294.22
+P1490,Training Dumbbells Large,Sports,2070.0,1365.27
+P1491,Standard Skipping Rope Small,Sports,300.0,211.84
+P1492,Standard Skipping Rope Medium,Sports,330.0,187.68
+P1493,Standard Skipping Rope Large,Sports,360.0,243.96
+P1494,Professional Skipping Rope Small,Sports,405.0,236.59
+P1495,Professional Skipping Rope Medium,Sports,445.5,250.8
+P1496,Professional Skipping Rope Large,Sports,486.0,301.37
+P1497,Training Skipping Rope Small,Sports,345.0,197.54
+P1498,Training Skipping Rope Medium,Sports,379.5,222.39
+P1499,Training Skipping Rope Large,Sports,414.0,285.37
+P1500,Standard Sports Shoes Small,Sports,3500.0,2531.97
+P1501,Standard Sports Shoes Medium,Sports,3850.0,2596.4
+P1502,Standard Sports Shoes Large,Sports,4200.0,2758.82
+P1503,Professional Sports Shoes Small,Sports,4725.0,2703.0
+P1504,Professional Sports Shoes Medium,Sports,5197.5,3863.57
+P1505,Professional Sports Shoes Large,Sports,5670.0,3402.36
+P1506,Training Sports Shoes Small,Sports,4025.0,2367.06
+P1507,Training Sports Shoes Medium,Sports,4427.5,2821.59
+P1508,Training Sports Shoes Large,Sports,4830.0,3196.27
+P1509,Standard Gym Gloves Small,Sports,600.0,378.99
+P1510,Standard Gym Gloves Medium,Sports,660.0,380.07
+P1511,Standard Gym Gloves Large,Sports,720.0,484.73
+P1512,Professional Gym Gloves Small,Sports,810.0,456.33
+P1513,Professional Gym Gloves Medium,Sports,891.0,558.0
+P1514,Professional Gym Gloves Large,Sports,972.0,539.11
+P1515,Training Gym Gloves Small,Sports,690.0,461.67
+P1516,Training Gym Gloves Medium,Sports,759.0,521.7
+P1517,Training Gym Gloves Large,Sports,828.0,616.04
+P1518,Standard Helmet Small,Sports,1800.0,1259.69
+P1519,Standard Helmet Medium,Sports,1980.0,1222.15
+P1520,Standard Helmet Large,Sports,2160.0,1561.62
+P1521,Professional Helmet Small,Sports,2430.0,1524.05
+P1522,Professional Helmet Medium,Sports,2673.0,1509.53
+P1523,Professional Helmet Large,Sports,2916.0,1912.93
+P1524,Training Helmet Small,Sports,2070.0,1319.74
+P1525,Training Helmet Medium,Sports,2277.0,1453.18
+P1526,Training Helmet Large,Sports,2484.0,1739.25
+P1527,Standard Cycling Bottle Small,Sports,400.0,254.35
+P1528,Standard Cycling Bottle Medium,Sports,440.0,285.8
+P1529,Standard Cycling Bottle Large,Sports,480.0,326.49
+P1530,Professional Cycling Bottle Small,Sports,540.0,358.99
+P1531,Professional Cycling Bottle Medium,Sports,594.0,443.42
+P1532,Professional Cycling Bottle Large,Sports,648.0,409.94
+P1533,Training Cycling Bottle Small,Sports,460.0,266.29
+P1534,Training Cycling Bottle Medium,Sports,506.0,279.17
+P1535,Training Cycling Bottle Large,Sports,552.0,373.56
+P1536,Standard Swimming Goggles Small,Sports,900.0,654.32
+P1537,Standard Swimming Goggles Medium,Sports,990.0,720.72
+P1538,Standard Swimming Goggles Large,Sports,1080.0,753.59
+P1539,Professional Swimming Goggles Small,Sports,1215.0,901.06
+P1540,Professional Swimming Goggles Medium,Sports,1336.5,940.9
+P1541,Professional Swimming Goggles Large,Sports,1458.0,923.67
+P1542,Training Swimming Goggles Small,Sports,1035.0,610.64
+P1543,Training Swimming Goggles Medium,Sports,1138.5,752.58
+P1544,Training Swimming Goggles Large,Sports,1242.0,751.96
+P1545,Standard Table Tennis Bat Small,Sports,1200.0,704.2
+P1546,Standard Table Tennis Bat Medium,Sports,1320.0,903.2
+P1547,Standard Table Tennis Bat Large,Sports,1440.0,1069.98
+P1548,Professional Table Tennis Bat Small,Sports,1620.0,1109.87
+P1549,Professional Table Tennis Bat Medium,Sports,1782.0,1251.59
+P1550,Professional Table Tennis Bat Large,Sports,1944.0,1340.3
+P1551,Training Table Tennis Bat Small,Sports,1380.0,937.11
+P1552,Training Table Tennis Bat Medium,Sports,1518.0,1117.74
+P1553,Training Table Tennis Bat Large,Sports,1656.0,1034.71
+P1554,Standard Resistance Band Small,Sports,500.0,312.79
+P1555,Standard Resistance Band Medium,Sports,550.0,402.87
+P1556,Standard Resistance Band Large,Sports,600.0,331.81
+P1557,Professional Resistance Band Small,Sports,675.0,498.39
+P1558,Professional Resistance Band Medium,Sports,742.5,472.61
+P1559,Professional Resistance Band Large,Sports,810.0,570.12
+P1560,Training Resistance Band Small,Sports,575.0,408.28
+P1561,Training Resistance Band Medium,Sports,632.5,356.69
+P1562,Training Resistance Band Large,Sports,690.0,438.08
+P1563,Standard Foam Roller Small,Sports,1000.0,654.91
+P1564,Standard Foam Roller Medium,Sports,1100.0,794.9
+P1565,Standard Foam Roller Large,Sports,1200.0,824.86
+P1566,Professional Foam Roller Small,Sports,1350.0,816.2
+P1567,Professional Foam Roller Medium,Sports,1485.0,949.38
+P1568,Professional Foam Roller Large,Sports,1620.0,1189.49
+P1569,Training Foam Roller Small,Sports,1150.0,801.98
+P1570,Training Foam Roller Medium,Sports,1265.0,914.71
+P1571,Training Foam Roller Large,Sports,1380.0,953.23
+P1572,Standard Sports Bag Small,Sports,1500.0,932.23
+P1573,Standard Sports Bag Medium,Sports,1650.0,1039.84
+P1574,Standard Sports Bag Large,Sports,1800.0,1051.19
+P1575,Professional Sports Bag Small,Sports,2025.0,1238.04
+P1576,Professional Sports Bag Medium,Sports,2227.5,1281.54
+P1577,Professional Sports Bag Large,Sports,2430.0,1774.6
+P1578,Training Sports Bag Small,Sports,1725.0,1210.18
+P1579,Training Sports Bag Medium,Sports,1897.5,1378.46
+P1580,Training Sports Bag Large,Sports,2070.0,1228.65
+P1581,Smartphone Basic 64GB,Electronics,18000.0,12841.64
+P1582,Smartphone Basic 128GB,Electronics,21600.0,17059.22
+P1583,Smartphone Basic 256GB,Electronics,26100.0,20669.07
+P1584,Smartphone Basic 512GB,Electronics,32400.0,23690.71
+P1585,Smartphone Standard 64GB,Electronics,21600.0,18393.38
+P1586,Smartphone Standard 128GB,Electronics,25920.0,18895.97
+P1587,Smartphone Standard 256GB,Electronics,31320.0,27684.95
+P1588,Smartphone Standard 512GB,Electronics,38880.0,28329.16
+P1589,Smartphone Premium 64GB,Electronics,27000.0,23872.89
+P1590,Smartphone Premium 128GB,Electronics,32400.0,24280.19
+P1591,Smartphone Premium 256GB,Electronics,39150.0,30659.85
+P1592,Smartphone Premium 512GB,Electronics,48600.0,41170.98
+P1593,Laptop Basic 64GB,Electronics,55000.0,45099.64
+P1594,Laptop Basic 128GB,Electronics,66000.0,49602.82
+P1595,Laptop Basic 256GB,Electronics,79750.0,64702.8
+P1596,Laptop Basic 512GB,Electronics,99000.0,72442.61
+P1597,Laptop Standard 64GB,Electronics,66000.0,58117.08
+P1598,Laptop Standard 128GB,Electronics,79200.0,59351.75
+P1599,Laptop Standard 256GB,Electronics,95700.0,70211.86
+P1600,Laptop Standard 512GB,Electronics,118800.0,101782.65
+P1601,Laptop Premium 64GB,Electronics,82500.0,69137.02
+P1602,Laptop Premium 128GB,Electronics,99000.0,70517.19
+P1603,Laptop Premium 256GB,Electronics,119625.0,102094.56
+P1604,Laptop Premium 512GB,Electronics,148500.0,116014.79
+P1605,Tablet Basic 64GB,Electronics,25000.0,19811.7
+P1606,Tablet Basic 128GB,Electronics,30000.0,26476.32
+P1607,Tablet Basic 256GB,Electronics,36250.0,26553.83
+P1608,Tablet Basic 512GB,Electronics,45000.0,34207.8
+P1609,Tablet Standard 64GB,Electronics,30000.0,21785.61
+P1610,Tablet Standard 128GB,Electronics,36000.0,30432.2
+P1611,Tablet Standard 256GB,Electronics,43500.0,35371.87
+P1612,Tablet Standard 512GB,Electronics,54000.0,38885.02
+P1613,Tablet Premium 64GB,Electronics,37500.0,26538.75
+P1614,Tablet Premium 128GB,Electronics,45000.0,33837.94
+P1615,Tablet Premium 256GB,Electronics,54375.0,43588.63
+P1616,Tablet Premium 512GB,Electronics,67500.0,59139.56
+P1617,Smartwatch Basic 64GB,Electronics,12000.0,9365.15
+P1618,Smartwatch Basic 128GB,Electronics,14400.0,11418.77
+P1619,Smartwatch Basic 256GB,Electronics,17400.0,12204.36
+P1620,Smartwatch Basic 512GB,Electronics,21600.0,15968.95
+P1621,Smartwatch Standard 64GB,Electronics,14400.0,11242.85
+P1622,Smartwatch Standard 128GB,Electronics,17280.0,14406.68
+P1623,Smartwatch Standard 256GB,Electronics,20880.0,18013.12
+P1624,Smartwatch Standard 512GB,Electronics,25920.0,19329.59
+P1625,Smartwatch Premium 64GB,Electronics,18000.0,14682.63
+P1626,Smartwatch Premium 128GB,Electronics,21600.0,17371.22
+P1627,Smartwatch Premium 256GB,Electronics,26100.0,18614.92
+P1628,Smartwatch Premium 512GB,Electronics,32400.0,27014.09
+P1629,Headphones Basic 64GB,Electronics,3000.0,2622.98
+P1630,Headphones Basic 128GB,Electronics,3600.0,3104.37
+P1631,Headphones Basic 256GB,Electronics,4350.0,3748.64
+P1632,Headphones Basic 512GB,Electronics,5400.0,4493.24
+P1633,Headphones Standard 64GB,Electronics,3600.0,2952.9
+P1634,Headphones Standard 128GB,Electronics,4320.0,3484.24
+P1635,Headphones Standard 256GB,Electronics,5220.0,3758.84
+P1636,Headphones Standard 512GB,Electronics,6480.0,4803.1
+P1637,Headphones Premium 64GB,Electronics,4500.0,3242.1
+P1638,Headphones Premium 128GB,Electronics,5400.0,4515.24
+P1639,Headphones Premium 256GB,Electronics,6525.0,5440.37
+P1640,Headphones Premium 512GB,Electronics,8100.0,6936.06
+P1641,Bluetooth Speaker Basic 64GB,Electronics,4000.0,2991.81
+P1642,Bluetooth Speaker Basic 128GB,Electronics,4800.0,3454.09
+P1643,Bluetooth Speaker Basic 256GB,Electronics,5800.0,4083.07
+P1644,Bluetooth Speaker Basic 512GB,Electronics,7200.0,6145.85
+P1645,Bluetooth Speaker Standard 64GB,Electronics,4800.0,3654.97
+P1646,Bluetooth Speaker Standard 128GB,Electronics,5760.0,5085.49
+P1647,Bluetooth Speaker Standard 256GB,Electronics,6960.0,5875.28
+P1648,Bluetooth Speaker Standard 512GB,Electronics,8640.0,7014.36
+P1649,Bluetooth Speaker Premium 64GB,Electronics,6000.0,5193.51
+P1650,Bluetooth Speaker Premium 128GB,Electronics,7200.0,5325.45
+P1651,Bluetooth Speaker Premium 256GB,Electronics,8700.0,6415.52
+P1652,Bluetooth Speaker Premium 512GB,Electronics,10800.0,8342.8
+P1653,Television Basic 64GB,Electronics,35000.0,29415.86
+P1654,Television Basic 128GB,Electronics,42000.0,33772.14
+P1655,Television Basic 256GB,Electronics,50750.0,36479.87
+P1656,Television Basic 512GB,Electronics,63000.0,51411.67
+P1657,Television Standard 64GB,Electronics,42000.0,35020.11
+P1658,Television Standard 128GB,Electronics,50400.0,41668.78
+P1659,Television Standard 256GB,Electronics,60900.0,43312.8
+P1660,Television Standard 512GB,Electronics,75600.0,59147.51
+P1661,Television Premium 64GB,Electronics,52500.0,41591.09
+P1662,Television Premium 128GB,Electronics,63000.0,46477.1
+P1663,Television Premium 256GB,Electronics,76125.0,56368.7
+P1664,Television Premium 512GB,Electronics,94500.0,79136.16
+P1665,Refrigerator Basic 64GB,Electronics,30000.0,23409.23
+P1666,Refrigerator Basic 128GB,Electronics,36000.0,26615.92
+P1667,Refrigerator Basic 256GB,Electronics,43500.0,35705.71
+P1668,Refrigerator Basic 512GB,Electronics,54000.0,40868.56
+P1669,Refrigerator Standard 64GB,Electronics,36000.0,26540.84
+P1670,Refrigerator Standard 128GB,Electronics,43200.0,36668.23
+P1671,Refrigerator Standard 256GB,Electronics,52200.0,37618.29
+P1672,Refrigerator Standard 512GB,Electronics,64800.0,49103.71
+P1673,Refrigerator Premium 64GB,Electronics,45000.0,37461.42
+P1674,Refrigerator Premium 128GB,Electronics,54000.0,47161.61
+P1675,Refrigerator Premium 256GB,Electronics,65250.0,52070.93
+P1676,Refrigerator Premium 512GB,Electronics,81000.0,72056.6
+P1677,Washing Machine Basic 64GB,Electronics,28000.0,23357.82
+P1678,Washing Machine Basic 128GB,Electronics,33600.0,26189.37
+P1679,Washing Machine Basic 256GB,Electronics,40600.0,36184.71
+P1680,Washing Machine Basic 512GB,Electronics,50400.0,45268.9
+P1681,Washing Machine Standard 64GB,Electronics,33600.0,27462.27
+P1682,Washing Machine Standard 128GB,Electronics,40320.0,34599.13
+P1683,Washing Machine Standard 256GB,Electronics,48720.0,40243.98
+P1684,Washing Machine Standard 512GB,Electronics,60480.0,42702.59
+P1685,Washing Machine Premium 64GB,Electronics,42000.0,36987.21
+P1686,Washing Machine Premium 128GB,Electronics,50400.0,43217.6
+P1687,Washing Machine Premium 256GB,Electronics,60900.0,49798.53
+P1688,Washing Machine Premium 512GB,Electronics,75600.0,59222.06
+P1689,Microwave Oven Basic 64GB,Electronics,12000.0,10203.09
+P1690,Microwave Oven Basic 128GB,Electronics,14400.0,12275.58
+P1691,Microwave Oven Basic 256GB,Electronics,17400.0,13062.38
+P1692,Microwave Oven Basic 512GB,Electronics,21600.0,19252.69
+P1693,Microwave Oven Standard 64GB,Electronics,14400.0,12618.88
+P1694,Microwave Oven Standard 128GB,Electronics,17280.0,14172.25
+P1695,Microwave Oven Standard 256GB,Electronics,20880.0,16576.83
+P1696,Microwave Oven Standard 512GB,Electronics,25920.0,19493.98
+P1697,Microwave Oven Premium 64GB,Electronics,18000.0,13504.06
+P1698,Microwave Oven Premium 128GB,Electronics,21600.0,16312.91
+P1699,Microwave Oven Premium 256GB,Electronics,26100.0,21175.97
+P1700,Microwave Oven Premium 512GB,Electronics,32400.0,25044.69
+P1701,Air Conditioner Basic 64GB,Electronics,42000.0,35798.61
+P1702,Air Conditioner Basic 128GB,Electronics,50400.0,43461.75
+P1703,Air Conditioner Basic 256GB,Electronics,60900.0,54806.96
+P1704,Air Conditioner Basic 512GB,Electronics,75600.0,67065.72
+P1705,Air Conditioner Standard 64GB,Electronics,50400.0,42275.64
+P1706,Air Conditioner Standard 128GB,Electronics,60480.0,45902.99
+P1707,Air Conditioner Standard 256GB,Electronics,73080.0,56515.07
+P1708,Air Conditioner Standard 512GB,Electronics,90720.0,73159.48
+P1709,Air Conditioner Premium 64GB,Electronics,63000.0,46584.42
+P1710,Air Conditioner Premium 128GB,Electronics,75600.0,60569.32
+P1711,Air Conditioner Premium 256GB,Electronics,91350.0,75472.79
+P1712,Air Conditioner Premium 512GB,Electronics,113400.0,95225.07
+P1713,Mixer Grinder Basic 64GB,Electronics,3500.0,2781.17
+P1714,Mixer Grinder Basic 128GB,Electronics,4200.0,3113.57
+P1715,Mixer Grinder Basic 256GB,Electronics,5075.0,3769.02
+P1716,Mixer Grinder Basic 512GB,Electronics,6300.0,4742.39
+P1717,Mixer Grinder Standard 64GB,Electronics,4200.0,3439.64
+P1718,Mixer Grinder Standard 128GB,Electronics,5040.0,3951.25
+P1719,Mixer Grinder Standard 256GB,Electronics,6090.0,5292.04
+P1720,Mixer Grinder Standard 512GB,Electronics,7560.0,5593.14
+P1721,Mixer Grinder Premium 64GB,Electronics,5250.0,4700.34
+P1722,Mixer Grinder Premium 128GB,Electronics,6300.0,5277.16
+P1723,Mixer Grinder Premium 256GB,Electronics,7612.5,5987.72
+P1724,Mixer Grinder Premium 512GB,Electronics,9450.0,6682.08
+P1725,Electric Kettle Basic 64GB,Electronics,1800.0,1477.33
+P1726,Electric Kettle Basic 128GB,Electronics,2160.0,1614.96
+P1727,Electric Kettle Basic 256GB,Electronics,2610.0,2275.68
+P1728,Electric Kettle Basic 512GB,Electronics,3240.0,2475.4
+P1729,Electric Kettle Standard 64GB,Electronics,2160.0,1904.75
+P1730,Electric Kettle Standard 128GB,Electronics,2592.0,2015.0
+P1731,Electric Kettle Standard 256GB,Electronics,3132.0,2242.82
+P1732,Electric Kettle Standard 512GB,Electronics,3888.0,3171.16
+P1733,Electric Kettle Premium 64GB,Electronics,2700.0,2267.18
+P1734,Electric Kettle Premium 128GB,Electronics,3240.0,2670.08
+P1735,Electric Kettle Premium 256GB,Electronics,3915.0,3206.02
+P1736,Electric Kettle Premium 512GB,Electronics,4860.0,3620.64
+P1737,Vacuum Cleaner Basic 64GB,Electronics,9000.0,6757.48
+P1738,Vacuum Cleaner Basic 128GB,Electronics,10800.0,8049.12
+P1739,Vacuum Cleaner Basic 256GB,Electronics,13050.0,11170.56
+P1740,Vacuum Cleaner Basic 512GB,Electronics,16200.0,11367.77
+P1741,Vacuum Cleaner Standard 64GB,Electronics,10800.0,9684.76
+P1742,Vacuum Cleaner Standard 128GB,Electronics,12960.0,10885.4
+P1743,Vacuum Cleaner Standard 256GB,Electronics,15660.0,13011.3
+P1744,Vacuum Cleaner Standard 512GB,Electronics,19440.0,13947.04
+P1745,Vacuum Cleaner Premium 64GB,Electronics,13500.0,9539.23
+P1746,Vacuum Cleaner Premium 128GB,Electronics,16200.0,12125.16
+P1747,Vacuum Cleaner Premium 256GB,Electronics,19575.0,14877.21
+P1748,Vacuum Cleaner Premium 512GB,Electronics,24300.0,18256.58
+P1749,Printer Basic 64GB,Electronics,8500.0,7445.11
+P1750,Printer Basic 128GB,Electronics,10200.0,8064.25
+P1751,Printer Basic 256GB,Electronics,12325.0,8785.78
+P1752,Printer Basic 512GB,Electronics,15300.0,11538.97
+P1753,Printer Standard 64GB,Electronics,10200.0,7746.31
+P1754,Printer Standard 128GB,Electronics,12240.0,9928.02
+P1755,Printer Standard 256GB,Electronics,14790.0,12039.25
+P1756,Printer Standard 512GB,Electronics,18360.0,14852.99
+P1757,Printer Premium 64GB,Electronics,12750.0,10994.57
+P1758,Printer Premium 128GB,Electronics,15300.0,13055.72
+P1759,Printer Premium 256GB,Electronics,18487.5,13201.03
+P1760,Printer Premium 512GB,Electronics,22950.0,16174.96
+P1761,Power Bank Basic 64GB,Electronics,1500.0,1312.08
+P1762,Power Bank Basic 128GB,Electronics,1800.0,1365.72
+P1763,Power Bank Basic 256GB,Electronics,2175.0,1764.08
+P1764,Power Bank Basic 512GB,Electronics,2700.0,2267.47
+P1765,Power Bank Standard 64GB,Electronics,1800.0,1512.15
+P1766,Power Bank Standard 128GB,Electronics,2160.0,1809.37
+P1767,Power Bank Standard 256GB,Electronics,2610.0,2139.96
+P1768,Power Bank Standard 512GB,Electronics,3240.0,2434.8
+P1769,Power Bank Premium 64GB,Electronics,2250.0,1864.54
+P1770,Power Bank Premium 128GB,Electronics,2700.0,2181.38
+P1771,Power Bank Premium 256GB,Electronics,3262.5,2922.74
+P1772,Power Bank Premium 512GB,Electronics,4050.0,3362.95
+P1773,Wireless Mouse Basic 64GB,Electronics,900.0,781.03
+P1774,Wireless Mouse Basic 128GB,Electronics,1080.0,885.14
+P1775,Wireless Mouse Basic 256GB,Electronics,1305.0,1045.53
+P1776,Wireless Mouse Basic 512GB,Electronics,1620.0,1394.17
+P1777,Wireless Mouse Standard 64GB,Electronics,1080.0,969.53
+P1778,Wireless Mouse Standard 128GB,Electronics,1296.0,955.61
+P1779,Wireless Mouse Standard 256GB,Electronics,1566.0,1169.93
+P1780,Wireless Mouse Standard 512GB,Electronics,1944.0,1661.49
+P1781,Wireless Mouse Premium 64GB,Electronics,1350.0,986.78
+P1782,Wireless Mouse Premium 128GB,Electronics,1620.0,1239.48
+P1783,Wireless Mouse Premium 256GB,Electronics,1957.5,1513.39
+P1784,Wireless Mouse Premium 512GB,Electronics,2430.0,1905.54
+P1785,Keyboard Basic 64GB,Electronics,1200.0,883.35
+P1786,Keyboard Basic 128GB,Electronics,1440.0,1028.93
+P1787,Keyboard Basic 256GB,Electronics,1740.0,1338.71
+P1788,Keyboard Basic 512GB,Electronics,2160.0,1607.18
+P1789,Keyboard Standard 64GB,Electronics,1440.0,1204.96
+P1790,Keyboard Standard 128GB,Electronics,1728.0,1241.64
+P1791,Keyboard Standard 256GB,Electronics,2088.0,1790.68
+P1792,Keyboard Standard 512GB,Electronics,2592.0,1903.01
+P1793,Keyboard Premium 64GB,Electronics,1800.0,1430.25
+P1794,Keyboard Premium 128GB,Electronics,2160.0,1924.55
+P1795,Keyboard Premium 256GB,Electronics,2610.0,1991.58
+P1796,Keyboard Premium 512GB,Electronics,3240.0,2531.11
+P1797,Monitor Basic 64GB,Electronics,14000.0,11849.39
+P1798,Monitor Basic 128GB,Electronics,16800.0,13350.45
+P1799,Monitor Basic 256GB,Electronics,20300.0,17044.17
+P1800,Monitor Basic 512GB,Electronics,25200.0,18964.63
+P1801,Monitor Standard 64GB,Electronics,16800.0,12395.66
+P1802,Monitor Standard 128GB,Electronics,20160.0,15214.01
+P1803,Monitor Standard 256GB,Electronics,24360.0,18509.65
+P1804,Monitor Standard 512GB,Electronics,30240.0,23460.67
+P1805,Monitor Premium 64GB,Electronics,21000.0,17108.85
+P1806,Monitor Premium 128GB,Electronics,25200.0,18516.22
+P1807,Monitor Premium 256GB,Electronics,30450.0,24267.35
+P1808,Monitor Premium 512GB,Electronics,37800.0,28358.42
+P1809,Router Basic 64GB,Electronics,2500.0,1782.07
+P1810,Router Basic 128GB,Electronics,3000.0,2571.78
+P1811,Router Basic 256GB,Electronics,3625.0,3244.55
+P1812,Router Basic 512GB,Electronics,4500.0,3900.23
+P1813,Router Standard 64GB,Electronics,3000.0,2278.89
+P1814,Router Standard 128GB,Electronics,3600.0,3062.69
+P1815,Router Standard 256GB,Electronics,4350.0,3611.06
+P1816,Router Standard 512GB,Electronics,5400.0,4776.89
+P1817,Router Premium 64GB,Electronics,3750.0,3095.13
+P1818,Router Premium 128GB,Electronics,4500.0,4044.22
+P1819,Router Premium 256GB,Electronics,5437.5,4633.54
+P1820,Router Premium 512GB,Electronics,6750.0,5819.38

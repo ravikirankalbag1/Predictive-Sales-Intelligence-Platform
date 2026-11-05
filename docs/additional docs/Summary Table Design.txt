@@ -1,0 +1,88 @@
+Customer Summary (22)
+customer_id
+customer_name
+age
+gender
+membership
+join_date
+total_orders 
+total_revenue
+Discounts
+total_quantity_purchased
+total_profits_generated
+total_distinct_products_bought
+Average_order_value
+First_purchase_date 
+last_purchase_date  
+recency_days 
+preferred price band
+distinct_categories_purchased
+favourite_category
+most_purchased_products
+Average basket value
+Average items/order
+
+Product Summary (14)
+Product_id D
+product_name D
+no of stores where product available
+revenue D
+units sold D
+number of customers bought D
+repeat purchases
+profit
+monthly sales trend
+average discount
+average selling price D
+average profit
+total transaction
+market share
+
+
+Store Summary (
+store_id
+store_name
+peak month
+average order value - Yearly & Monthly
+total transactions per store - Yearly & Monthly
+total customers (footfalls) - Yearly & Monthly
+revenue generated per store - Yearly & Monthly
+best selling category per store
+total units/quantity sold - Yearly & Monthly
+
+
+store_summary (12)
+
+store_id
+store_name
+peak_month
+best_selling_category
+
+store_yearly_summary
+Yearly avg order value
+Yearly total transactions
+yearly total customers
+
+
+store_time_summary
+store_id
+year
+month
+average_order_value
+total_transactions
+total_customers
+revenue
+total_units_sold
+
+
+
+Sales Transaction Summary (8)
+Profit
+Discount %
+Weekend sale
+Season
+Order value bucket (Overall)
+High value order
+Festival season
+Profit Margin
+

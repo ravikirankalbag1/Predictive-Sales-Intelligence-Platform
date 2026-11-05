@@ -1,0 +1,8 @@
+store_id,store_name,city,state,country,store_type
+S01,ABC Mumbai Central,Mumbai,Maharashtra,India,Supermarket
+S02,ABC Delhi Central,Delhi,Delhi,India,Supermarket
+S03,ABC Chennai Central,Chennai,Tamil Nadu,India,Supermarket
+S04,ABC Kolkata Central,Kolkata,West Bengal,India,Express
+S05,ABC Pune Central,Pune,Maharashtra,India,Express
+S06,ABC Bangalore Central,Bangalore,Karnataka,India,Supermarket
+S07,ABC Hyderabad Central,Hyderabad,Telangana,India,Supermarket

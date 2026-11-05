@@ -1,0 +1,3 @@
+1) Price will Increase every year based on Inflation --> But in our synthetic dataset we have kept it constant
+
+2) Lag will be based on calendar month & also previous month record coz we have considered all products getting sold at all months & years

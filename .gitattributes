@@ -1,0 +1,6 @@
+*.joblib filter=lfs diff=lfs merge=lfs -text
+data/raw/sales_transaction.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/ml_dataset.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/moving_averages_summary.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/price_and_promotion.csv filter=lfs diff=lfs merge=lfs -text
+data/ml_ready/*.csv filter=lfs diff=lfs merge=lfs -text
