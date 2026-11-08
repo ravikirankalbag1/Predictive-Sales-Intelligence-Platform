@@ -1,0 +1,18 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# IDE files
+.vs/
+.idea/
+
+# MLflow
+mlartifacts/
+mlflow.db
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
